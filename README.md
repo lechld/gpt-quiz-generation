@@ -29,5 +29,5 @@ Metriken:
 
 ## Erwartete Ergebnisse
 
-- EinquantitativerVergleichderLLM-undOTDB-FragenhinsichtlichQual- ität, Diversität, und Relevanz.
+- Ein quantitativer Vergleich der LLM- und OTDB-Fragen hinsichtlich Qualität, Diversität, und Relevanz.
 - Eine Einschätzung des Potenzials von LLMs für dynamische Quiz-Systeme im Vergleich zu statischen Datenbanken.
