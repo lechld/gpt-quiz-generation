@@ -97,9 +97,8 @@ class OTDBFetcher:
                 print(f"Error fetching questions: {data}")
                 raise RuntimeError(f"Failed to fetch questions: {data['response_code']}")
 
-            if remaining > 0:
-                print(f"Waiting {self.delay_between_requests} seconds before the next request...")
-                time.sleep(self.delay_between_requests)
+            print(f"Waiting {self.delay_between_requests} seconds before the next request...")
+            time.sleep(self.delay_between_requests)
 
         print(f"Fetched all {len(questions)} questions for category {category.llm_description}.")
         return questions
