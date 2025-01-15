@@ -1,0 +1,2313 @@
+[
+    {
+        "question": "What planet is known as the Red Planet?",
+        "correct_answer": "Mars",
+        "incorrect_answers": [
+            "Venus",
+            "Jupiter",
+            "Mercury"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "correct_answer": "Blue Whale",
+        "incorrect_answers": [
+            "Elephant",
+            "Giraffe",
+            "Great White Shark"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do bees collect from flowers?",
+        "correct_answer": "Nectar",
+        "incorrect_answers": [
+            "Water",
+            "Pollen (not collected)",
+            "Sap"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which gas do plants absorb from the air during photosynthesis?",
+        "correct_answer": "Carbon Dioxide",
+        "incorrect_answers": [
+            "Oxygen",
+            "Hydrogen",
+            "Methane"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What part of the body does the brain belong to?",
+        "correct_answer": "Nervous System",
+        "incorrect_answers": [
+            "Digestive System",
+            "Respiratory System",
+            "Circulatory System"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "6",
+            "10",
+            "12"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "correct_answer": "Diamond",
+        "incorrect_answers": [
+            "Gold",
+            "Iron",
+            "Granite"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What kind of star is the Sun?",
+        "correct_answer": "Yellow Dwarf",
+        "incorrect_answers": [
+            "Red Giant",
+            "White Dwarf",
+            "Neutron Star"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the process of water changing into vapor called?",
+        "correct_answer": "Evaporation",
+        "incorrect_answers": [
+            "Condensation",
+            "Precipitation",
+            "Freezing"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Saturn",
+            "Uranus",
+            "Neptune"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "correct_answer": "100\u00b0C",
+        "incorrect_answers": [
+            "0\u00b0C",
+            "50\u00b0C",
+            "212\u00b0C"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which bird is known for its colorful tail feathers?",
+        "correct_answer": "Peacock",
+        "incorrect_answers": [
+            "Eagle",
+            "Crow",
+            "Penguin"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What mineral is necessary for strong bones and teeth?",
+        "correct_answer": "Calcium",
+        "incorrect_answers": [
+            "Iron",
+            "Magnesium",
+            "Zinc"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "correct_answer": "Cell",
+        "incorrect_answers": [
+            "Atom",
+            "Molecule",
+            "Nucleus"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which part of a plant conducts photosynthesis?",
+        "correct_answer": "Leaves",
+        "incorrect_answers": [
+            "Roots",
+            "Stem",
+            "Flowers"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What gas do humans breathe in to survive?",
+        "correct_answer": "Oxygen",
+        "incorrect_answers": [
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main organ used for breathing?",
+        "correct_answer": "Lungs",
+        "incorrect_answers": [
+            "Heart",
+            "Liver",
+            "Stomach"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the largest land animal?",
+        "correct_answer": "Elephant",
+        "incorrect_answers": [
+            "Hippopotamus",
+            "Rhinoceros",
+            "Giraffe"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do carnivores eat?",
+        "correct_answer": "Meat",
+        "incorrect_answers": [
+            "Plants",
+            "Fruits",
+            "Seeds"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What planet is closest to the Sun?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+            "Venus",
+            "Earth",
+            "Mars"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do we call a baby goat?",
+        "correct_answer": "Kid",
+        "incorrect_answers": [
+            "Calf",
+            "Lamb",
+            "Fawn"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+            "Gold",
+            "Silver",
+            "Iron"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What force keeps us on the ground?",
+        "correct_answer": "Gravity",
+        "incorrect_answers": [
+            "Magnetism",
+            "Friction",
+            "Inertia"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do herbivores eat?",
+        "correct_answer": "Plants",
+        "incorrect_answers": [
+            "Meat",
+            "Fish",
+            "Insects"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the process that turns liquid water into ice?",
+        "correct_answer": "Freezing",
+        "incorrect_answers": [
+            "Melting",
+            "Evaporation",
+            "Condensation"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many planets are in our solar system?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "9",
+            "7",
+            "10"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main source of energy for life on Earth?",
+        "correct_answer": "The Sun",
+        "incorrect_answers": [
+            "The Moon",
+            "Water",
+            "Wind"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "correct_answer": "Pacific Ocean",
+        "incorrect_answers": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What kind of animal is a dolphin?",
+        "correct_answer": "Mammal",
+        "incorrect_answers": [
+            "Fish",
+            "Amphibian",
+            "Reptile"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do plants release into the air as a by-product of photosynthesis?",
+        "correct_answer": "Oxygen",
+        "incorrect_answers": [
+            "Carbon Dioxide",
+            "Methane",
+            "Nitrogen"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do we call the skeleton on the outside of an insect?",
+        "correct_answer": "Exoskeleton",
+        "incorrect_answers": [
+            "Endoskeleton",
+            "Shell",
+            "Cartilage"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "5",
+            "6",
+            "8"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the tallest type of grass?",
+        "correct_answer": "Bamboo",
+        "incorrect_answers": [
+            "Wheat",
+            "Corn",
+            "Sugarcane"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do fish use to breathe?",
+        "correct_answer": "Gills",
+        "incorrect_answers": [
+            "Lungs",
+            "Fins",
+            "Scales"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What type of animal is a Komodo dragon?",
+        "correct_answer": "Lizard",
+        "incorrect_answers": [
+            "Snake",
+            "Turtle",
+            "Crocodile"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is a group of lions called?",
+        "correct_answer": "Pride",
+        "incorrect_answers": [
+            "Pack",
+            "Flock",
+            "Herd"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What part of the body is the femur?",
+        "correct_answer": "Thigh Bone",
+        "incorrect_answers": [
+            "Arm Bone",
+            "Skull",
+            "Spine"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What type of tree do acorns come from?",
+        "correct_answer": "Oak",
+        "incorrect_answers": [
+            "Pine",
+            "Maple",
+            "Birch"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main gas found in the air we breathe?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the study of plants called?",
+        "correct_answer": "Botany",
+        "incorrect_answers": [
+            "Zoology",
+            "Ecology",
+            "Geology"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Saturn",
+            "Neptune",
+            "Earth"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main element in the air we breathe?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Helium"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the center of an atom called?",
+        "correct_answer": "Nucleus",
+        "incorrect_answers": [
+            "Proton",
+            "Electron",
+            "Neutron"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the process by which plants make their food?",
+        "correct_answer": "Photosynthesis",
+        "incorrect_answers": [
+            "Respiration",
+            "Digestion",
+            "Fermentation"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many hearts does an octopus have?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "4"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the tallest animal in the world?",
+        "correct_answer": "Giraffe",
+        "incorrect_answers": [
+            "Elephant",
+            "Kangaroo",
+            "Rhinoceros"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which animal is known as the \"King of the Jungle\"?",
+        "correct_answer": "Lion",
+        "incorrect_answers": [
+            "Tiger",
+            "Elephant",
+            "Bear"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main organ of the circulatory system?",
+        "correct_answer": "Heart",
+        "incorrect_answers": [
+            "Lungs",
+            "Brain",
+            "Stomach"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the most abundant gas in the Earth\u2019s atmosphere?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Oxygen",
+            "Argon",
+            "Carbon Dioxide"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many bones are in the adult human body?",
+        "correct_answer": "206",
+        "incorrect_answers": [
+            "208",
+            "204",
+            "210"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What type of celestial body is the Moon?",
+        "correct_answer": "Natural Satellite",
+        "incorrect_answers": [
+            "Planet",
+            "Star",
+            "Asteroid"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "correct_answer": "Skin",
+        "incorrect_answers": [
+            "Liver",
+            "Brain",
+            "Heart"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "correct_answer": "H\u2082O",
+        "incorrect_answers": [
+            "CO\u2082",
+            "O\u2082",
+            "H\u2082"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is a baby kangaroo called?",
+        "correct_answer": "Joey",
+        "incorrect_answers": [
+            "Calf",
+            "Cub",
+            "Fawn"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which ocean is the warmest?",
+        "correct_answer": "Indian Ocean",
+        "incorrect_answers": [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Arctic Ocean"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the smallest planet in our solar system?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+            "Pluto",
+            "Mars",
+            "Venus"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do you call animals that eat both plants and meat?",
+        "correct_answer": "Omnivores",
+        "incorrect_answers": [
+            "Herbivores",
+            "Carnivores",
+            "Insectivores"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What part of the cell contains genetic material?",
+        "correct_answer": "Nucleus",
+        "incorrect_answers": [
+            "Cytoplasm",
+            "Mitochondria",
+            "Ribosomes"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which sense is most developed in dogs?",
+        "correct_answer": "Smell",
+        "incorrect_answers": [
+            "Sight",
+            "Taste",
+            "Hearing"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the basic unit of matter?",
+        "correct_answer": "Atom",
+        "incorrect_answers": [
+            "Molecule",
+            "Cell",
+            "Element"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which part of the human skeleton protects the brain?",
+        "correct_answer": "Skull",
+        "incorrect_answers": [
+            "Ribcage",
+            "Spine",
+            "Pelvis"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "correct_answer": "Au",
+        "incorrect_answers": [
+            "Ag",
+            "Gd",
+            "Ga"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which layer of the Earth's atmosphere contains the ozone layer?",
+        "correct_answer": "Stratosphere",
+        "incorrect_answers": [
+            "Troposphere",
+            "Mesosphere",
+            "Thermosphere"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the primary source of Earth's energy?",
+        "correct_answer": "The Sun",
+        "incorrect_answers": [
+            "The Moon",
+            "Geothermal Heat",
+            "Wind"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which element has the highest melting point?",
+        "correct_answer": "Tungsten",
+        "incorrect_answers": [
+            "Iron",
+            "Platinum",
+            "Carbon"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "correct_answer": "Newton",
+        "incorrect_answers": [
+            "Joule",
+            "Pascal",
+            "Watt"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the term for an animal that is active at night?",
+        "correct_answer": "Nocturnal",
+        "incorrect_answers": [
+            "Diurnal",
+            "Crepuscular",
+            "Arboreal"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "How many chromosomes do humans have?",
+        "correct_answer": "46",
+        "incorrect_answers": [
+            "44",
+            "48",
+            "50"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What type of rock is formed from cooled lava?",
+        "correct_answer": "Igneous",
+        "incorrect_answers": [
+            "Sedimentary",
+            "Metamorphic",
+            "Fossilized"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What does DNA stand for?",
+        "correct_answer": "Deoxyribonucleic Acid",
+        "incorrect_answers": [
+            "Dioxynucleotide Acid",
+            "Dual Nitrogen Acid",
+            "Deoxyribonitric Acid"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest freshwater lake by volume?",
+        "correct_answer": "Lake Baikal",
+        "incorrect_answers": [
+            "Lake Superior",
+            "Lake Victoria",
+            "Caspian Sea"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "correct_answer": "NaCl",
+        "incorrect_answers": [
+            "KCl",
+            "CaCl\u2082",
+            "Na\u2082CO\u2083"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the process where cells divide to form two identical daughter cells?",
+        "correct_answer": "Mitosis",
+        "incorrect_answers": [
+            "Meiosis",
+            "Binary Fission",
+            "Cytokinesis"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet rotates on its side?",
+        "correct_answer": "Uranus",
+        "incorrect_answers": [
+            "Neptune",
+            "Venus",
+            "Saturn"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "correct_answer": "Mitochondria",
+        "incorrect_answers": [
+            "Nucleus",
+            "Ribosome",
+            "Lysosome"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the hardest rock?",
+        "correct_answer": "Diamond",
+        "incorrect_answers": [
+            "Granite",
+            "Quartzite",
+            "Basalt"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What percentage of Earth's surface is covered by water?",
+        "correct_answer": "71%",
+        "incorrect_answers": [
+            "65%",
+            "78%",
+            "85%"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the main gas in the Earth's atmosphere?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Oxygen",
+            "Argon",
+            "Carbon Dioxide"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What type of symmetry do starfish have?",
+        "correct_answer": "Radial Symmetry",
+        "incorrect_answers": [
+            "Bilateral Symmetry",
+            "Asymmetry",
+            "Pentameral Symmetry"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the smallest bone in the human body?",
+        "correct_answer": "Stapes",
+        "incorrect_answers": [
+            "Humerus",
+            "Fibula",
+            "Scapula"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the largest desert in the world?",
+        "correct_answer": "Antarctic Desert",
+        "incorrect_answers": [
+            "Sahara Desert",
+            "Gobi Desert",
+            "Arabian Desert"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the only metal that is liquid at room temperature?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+            "Gallium",
+            "Lead",
+            "Bromine"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What are the building blocks of proteins?",
+        "correct_answer": "Amino Acids",
+        "incorrect_answers": [
+            "Fatty Acids",
+            "Nucleotides",
+            "Monosaccharides"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the process plants use to lose water through their leaves?",
+        "correct_answer": "Transpiration",
+        "incorrect_answers": [
+            "Evaporation",
+            "Absorption",
+            "Photosynthesis"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which gas makes up most of the Sun\u2019s composition?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+            "Helium",
+            "Oxygen",
+            "Carbon"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the term for animals that eat both plants and animals?",
+        "correct_answer": "Omnivores",
+        "incorrect_answers": [
+            "Herbivores",
+            "Carnivores",
+            "Detritivores"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the longest bone in the human body?",
+        "correct_answer": "Femur",
+        "incorrect_answers": [
+            "Tibia",
+            "Radius",
+            "Humerus"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet has the fastest rotation?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Saturn",
+            "Neptune",
+            "Mercury"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the chemical formula for carbon dioxide?",
+        "correct_answer": "CO\u2082",
+        "incorrect_answers": [
+            "CO",
+            "C\u2082O\u2083",
+            "O\u2082C"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What part of the brain controls balance and coordination?",
+        "correct_answer": "Cerebellum",
+        "incorrect_answers": [
+            "Cerebrum",
+            "Medulla",
+            "Thalamus"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What type of tide occurs when the Sun, Moon, and Earth are aligned?",
+        "correct_answer": "Spring Tide",
+        "incorrect_answers": [
+            "Neap Tide",
+            "High Tide",
+            "Lunar Tide"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the scientific study of fungi called?",
+        "correct_answer": "Mycology",
+        "incorrect_answers": [
+            "Botany",
+            "Zoology",
+            "Microbiology"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What does a barometer measure?",
+        "correct_answer": "Air Pressure",
+        "incorrect_answers": [
+            "Humidity",
+            "Temperature",
+            "Altitude"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the most abundant element in the Earth\u2019s crust?",
+        "correct_answer": "Oxygen",
+        "incorrect_answers": [
+            "Silicon",
+            "Aluminum",
+            "Iron"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the function of hemoglobin in the blood?",
+        "correct_answer": "Carry Oxygen",
+        "incorrect_answers": [
+            "Fight Infections",
+            "Clot Blood",
+            "Produce Energy"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which part of a flower becomes the fruit?",
+        "correct_answer": "Ovary",
+        "incorrect_answers": [
+            "Petal",
+            "Sepal",
+            "Stamen"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the first artificial satellite launched into space?",
+        "correct_answer": "Sputnik",
+        "incorrect_answers": [
+            "Apollo",
+            "Explorer",
+            "Vostok"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What type of blood cells help fight infections?",
+        "correct_answer": "White Blood Cells",
+        "incorrect_answers": [
+            "Red Blood Cells",
+            "Platelets",
+            "Plasma"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet is known as the \u201cEvening Star\u201d?",
+        "correct_answer": "Venus",
+        "incorrect_answers": [
+            "Mercury",
+            "Mars",
+            "Jupiter"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the main structural component of plant cell walls?",
+        "correct_answer": "Cellulose",
+        "incorrect_answers": [
+            "Protein",
+            "Chitin",
+            "Lignin"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which animal can regenerate its limbs?",
+        "correct_answer": "Starfish",
+        "incorrect_answers": [
+            "Crab",
+            "Frog",
+            "Snake"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which organ is responsible for filtering blood in the human body?",
+        "correct_answer": "Kidney",
+        "incorrect_answers": [
+            "Liver",
+            "Heart",
+            "Spleen"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the most common element in the universe?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+            "Oxygen",
+            "Carbon",
+            "Helium"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the largest artery in the human body?",
+        "correct_answer": "Aorta",
+        "incorrect_answers": [
+            "Pulmonary Artery",
+            "Coronary Artery",
+            "Carotid Artery"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet has the most prominent ring system?",
+        "correct_answer": "Saturn",
+        "incorrect_answers": [
+            "Uranus",
+            "Jupiter",
+            "Neptune"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the smallest unit of a chemical element?",
+        "correct_answer": "Atom",
+        "incorrect_answers": [
+            "Molecule",
+            "Proton",
+            "Electron"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the process of liquid water turning into ice called?",
+        "correct_answer": "Freezing",
+        "incorrect_answers": [
+            "Condensation",
+            "Solidification",
+            "Crystallization"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which blood type is considered the universal donor?",
+        "correct_answer": "O-negative",
+        "incorrect_answers": [
+            "AB-positive",
+            "A-positive",
+            "B-negative"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What are the primary colors of light?",
+        "correct_answer": "Red, Green, Blue",
+        "incorrect_answers": [
+            "Red",
+            "Blue",
+            "Yellow; Cyan",
+            "Magenta",
+            "Yellow; Black",
+            "White",
+            "Gray"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the term for molten rock beneath the Earth's surface?",
+        "correct_answer": "Magma",
+        "incorrect_answers": [
+            "Lava",
+            "Basalt",
+            "Ash"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest invertebrate?",
+        "correct_answer": "Giant Squid",
+        "incorrect_answers": [
+            "Blue Whale",
+            "Jellyfish",
+            "Octopus"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What kind of cloud is associated with thunderstorms?",
+        "correct_answer": "Cumulonimbus",
+        "incorrect_answers": [
+            "Stratus",
+            "Cirrus",
+            "Nimbostratus"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which gas is used in balloons to make them float?",
+        "correct_answer": "Helium",
+        "incorrect_answers": [
+            "Hydrogen",
+            "Nitrogen",
+            "Oxygen"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What organelle is known as the \u201ccontrol center\u201d of a cell?",
+        "correct_answer": "Nucleus",
+        "incorrect_answers": [
+            "Mitochondria",
+            "Ribosome",
+            "Golgi Apparatus"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the second largest planet in our solar system?",
+        "correct_answer": "Saturn",
+        "incorrect_answers": [
+            "Jupiter",
+            "Uranus",
+            "Neptune"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the approximate age of the Earth?",
+        "correct_answer": "4.5 billion years",
+        "incorrect_answers": [
+            "2 billion years",
+            "6 billion years",
+            "1 million years"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which mammal is capable of true flight?",
+        "correct_answer": "Bat",
+        "incorrect_answers": [
+            "Flying Squirrel",
+            "Sugar Glider",
+            "Lemur"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "correct_answer": "Fe",
+        "incorrect_answers": [
+            "Ir",
+            "I",
+            "In"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which organ is primarily responsible for producing insulin?",
+        "correct_answer": "Pancreas",
+        "incorrect_answers": [
+            "Liver",
+            "Stomach",
+            "Gallbladder"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the primary function of red blood cells?",
+        "correct_answer": "Carry Oxygen",
+        "incorrect_answers": [
+            "Fight Infections",
+            "Clot Blood",
+            "Store Energy"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the gas that makes up most of Venus\u2019s atmosphere?",
+        "correct_answer": "Carbon Dioxide",
+        "incorrect_answers": [
+            "Methane",
+            "Oxygen",
+            "Nitrogen"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the main purpose of chlorophyll in plants?",
+        "correct_answer": "Absorb Light for Photosynthesis",
+        "incorrect_answers": [
+            "Transport Water",
+            "Provide Structural Support",
+            "Store Energy"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What kind of galaxy is the Milky Way?",
+        "correct_answer": "Spiral Galaxy",
+        "incorrect_answers": [
+            "Elliptical Galaxy",
+            "Irregular Galaxy",
+            "Barred Galaxy"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which metal is used in the filament of light bulbs?",
+        "correct_answer": "Tungsten",
+        "incorrect_answers": [
+            "Copper",
+            "Aluminum",
+            "Nickel"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the study of weather?",
+        "correct_answer": "Meteorology",
+        "incorrect_answers": [
+            "Climatology",
+            "Geology",
+            "Oceanography"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the deepest oceanic trench?",
+        "correct_answer": "Mariana Trench",
+        "incorrect_answers": [
+            "Tonga Trench",
+            "Puerto Rico Trench",
+            "Java Trench"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the smallest unit of an organism?",
+        "correct_answer": "Cell",
+        "incorrect_answers": [
+            "Atom",
+            "Molecule",
+            "Tissue"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the main component of the Sun?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+            "Helium",
+            "Carbon",
+            "Oxygen"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the process by which water moves through a plant?",
+        "correct_answer": "Transpiration",
+        "incorrect_answers": [
+            "Evaporation",
+            "Osmosis",
+            "Diffusion"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the outermost layer of the Earth?",
+        "correct_answer": "Crust",
+        "incorrect_answers": [
+            "Mantle",
+            "Core",
+            "Lithosphere"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which part of the plant is responsible for water absorption?",
+        "correct_answer": "Roots",
+        "incorrect_answers": [
+            "Stem",
+            "Leaves",
+            "Flowers"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the process by which cells generate energy from glucose?",
+        "correct_answer": "Cellular Respiration",
+        "incorrect_answers": [
+            "Photosynthesis",
+            "Fermentation",
+            "Glycolysis"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the primary function of the liver?",
+        "correct_answer": "Filter Blood and Produce Bile",
+        "incorrect_answers": [
+            "Digest Food",
+            "Produce Hormones",
+            "Pump Blood"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What are the three states of matter?",
+        "correct_answer": "Solid, Liquid, Gas",
+        "incorrect_answers": [
+            "Solid",
+            "Liquid",
+            "Plasma; Solid",
+            "Gas",
+            "Plasma; Liquid",
+            "Gas",
+            "Plasma"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet is known for its Great Red Spot?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Saturn",
+            "Neptune",
+            "Uranus"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the main function of platelets in the blood?",
+        "correct_answer": "Help with Clotting",
+        "incorrect_answers": [
+            "Carry Oxygen",
+            "Fight Infections",
+            "Provide Energy"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the unit used to measure electrical resistance?",
+        "correct_answer": "Ohm",
+        "incorrect_answers": [
+            "Ampere",
+            "Volt",
+            "Joule"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the process by which a caterpillar becomes a butterfly?",
+        "correct_answer": "Metamorphosis",
+        "incorrect_answers": [
+            "Evolution",
+            "Maturation",
+            "Regeneration"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the device used to measure earthquakes?",
+        "correct_answer": "Seismograph",
+        "incorrect_answers": [
+            "Barometer",
+            "Anemometer",
+            "Thermometer"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What type of bond involves the sharing of electrons?",
+        "correct_answer": "Covalent Bond",
+        "incorrect_answers": [
+            "Ionic Bond",
+            "Hydrogen Bond",
+            "Metallic Bond"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the layer of Earth where tectonic plates are located?",
+        "correct_answer": "Lithosphere",
+        "incorrect_answers": [
+            "Asthenosphere",
+            "Mesosphere",
+            "Crust"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the most abundant metal in the Earth\u2019s crust?",
+        "correct_answer": "Aluminum",
+        "incorrect_answers": [
+            "Iron",
+            "Copper",
+            "Magnesium"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet is the hottest in the solar system?",
+        "correct_answer": "Venus",
+        "incorrect_answers": [
+            "Mercury",
+            "Mars",
+            "Jupiter"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What type of blood vessel carries blood away from the heart?",
+        "correct_answer": "Arteries",
+        "incorrect_answers": [
+            "Veins",
+            "Capillaries",
+            "Lymphatics"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the chemical formula for methane?",
+        "correct_answer": "CH\u2084",
+        "incorrect_answers": [
+            "C\u2082H\u2086",
+            "CH\u2083",
+            "CO\u2082"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which animal has the fastest land speed?",
+        "correct_answer": "Cheetah",
+        "incorrect_answers": [
+            "Lion",
+            "Horse",
+            "Gazelle"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the primary component of natural gas?",
+        "correct_answer": "Methane",
+        "incorrect_answers": [
+            "Propane",
+            "Ethane",
+            "Butane"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet has the largest volcano in the solar system?",
+        "correct_answer": "Mars (Olympus Mons)",
+        "incorrect_answers": [
+            "Earth",
+            "Venus",
+            "Jupiter"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the process where a liquid changes into a gas?",
+        "correct_answer": "Evaporation",
+        "incorrect_answers": [
+            "Condensation",
+            "Precipitation",
+            "Sublimation"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the study of earthquakes called?",
+        "correct_answer": "Seismology",
+        "incorrect_answers": [
+            "Volcanology",
+            "Geology",
+            "Meteorology"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the chemical symbol for potassium?",
+        "correct_answer": "K",
+        "incorrect_answers": [
+            "P",
+            "Po",
+            "Pt"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the only bird capable of hovering in place?",
+        "correct_answer": "Hummingbird",
+        "incorrect_answers": [
+            "Eagle",
+            "Falcon",
+            "Owl"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the function of the spleen in the human body?",
+        "correct_answer": "Filter Blood and Support the Immune System",
+        "incorrect_answers": [
+            "Produce Insulin",
+            "Digest Food",
+            "Store Calcium"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the measure of the amount of matter in an object?",
+        "correct_answer": "Mass",
+        "incorrect_answers": [
+            "Weight",
+            "Volume",
+            "Density"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the most abundant gas in the Sun?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+            "Helium",
+            "Oxygen",
+            "Nitrogen"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What type of organism thrives in extreme environments?",
+        "correct_answer": "Extremophiles",
+        "incorrect_answers": [
+            "Parasites",
+            "Pathogens",
+            "Prokaryotes"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the primary pigment involved in photosynthesis?",
+        "correct_answer": "Chlorophyll",
+        "incorrect_answers": [
+            "Carotene",
+            "Xanthophyll",
+            "Phycobilin"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the main cause of tides on Earth?",
+        "correct_answer": "Gravitational Pull of the Moon",
+        "incorrect_answers": [
+            "Wind",
+            "Earth\u2019s Rotation",
+            "Gravitational Pull of the Sun"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the term for the process by which rocks are broken down by wind, water, and ice?",
+        "correct_answer": "Weathering",
+        "incorrect_answers": [
+            "Erosion",
+            "Deposition",
+            "Sedimentation"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What part of a tree transports water from the roots to the leaves?",
+        "correct_answer": "Xylem",
+        "incorrect_answers": [
+            "Phloem",
+            "Cambium",
+            "Cortex"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the measure of the total energy of motion in the molecules of a substance?",
+        "correct_answer": "Thermal Energy",
+        "incorrect_answers": [
+            "Kinetic Energy",
+            "Potential Energy",
+            "Mechanical Energy"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the primary isotope of carbon used in radiocarbon dating?",
+        "correct_answer": "Carbon-14",
+        "incorrect_answers": [
+            "Carbon-12",
+            "Carbon-13",
+            "Carbon-15"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the process by which cells break down glucose in the absence of oxygen?",
+        "correct_answer": "Anaerobic Respiration",
+        "incorrect_answers": [
+            "Aerobic Respiration",
+            "Glycolysis",
+            "Fermentation"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the second most abundant element in the Earth's crust by weight?",
+        "correct_answer": "Silicon",
+        "incorrect_answers": [
+            "Aluminum",
+            "Iron",
+            "Calcium"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What term describes the distance at which a celestial object appears to shift position against the background of distant stars?",
+        "correct_answer": "Parallax",
+        "incorrect_answers": [
+            "Redshift",
+            "Doppler Effect",
+            "Retrograde Motion"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the smallest unit of matter that retains the properties of an element?",
+        "correct_answer": "Atom",
+        "incorrect_answers": [
+            "Quark",
+            "Molecule",
+            "Proton"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which part of the brain is responsible for regulating thirst and hunger?",
+        "correct_answer": "Hypothalamus",
+        "incorrect_answers": [
+            "Medulla",
+            "Cerebrum",
+            "Amygdala"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the most common type of star in the universe?",
+        "correct_answer": "Red Dwarf",
+        "incorrect_answers": [
+            "White Dwarf",
+            "Blue Giant",
+            "Neutron Star"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the process by which plants convert nitrogen gas into a usable form?",
+        "correct_answer": "Nitrogen Fixation",
+        "incorrect_answers": [
+            "Denitrification",
+            "Ammonification",
+            "Nitrification"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What type of bond forms when one atom donates an electron to another atom?",
+        "correct_answer": "Ionic Bond",
+        "incorrect_answers": [
+            "Covalent Bond",
+            "Hydrogen Bond",
+            "Metallic Bond"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the approximate pH of human blood?",
+        "correct_answer": "7.4",
+        "incorrect_answers": [
+            "6.8",
+            "7.0",
+            "7.8"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the primary function of the Golgi apparatus in a cell?",
+        "correct_answer": "Modify and Package Proteins",
+        "incorrect_answers": [
+            "Energy Production",
+            "Protein Synthesis",
+            "DNA Replication"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which organelle contains enzymes for breaking down waste materials and cellular debris?",
+        "correct_answer": "Lysosome",
+        "incorrect_answers": [
+            "Ribosome",
+            "Peroxisome",
+            "Vacuole"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the deepest known point in the ocean?",
+        "correct_answer": "Challenger Deep",
+        "incorrect_answers": [
+            "Tonga Trench",
+            "Java Trench",
+            "Puerto Rico Trench"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which planet has the shortest day?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Saturn",
+            "Neptune",
+            "Mercury"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What type of rock is formed under intense heat and pressure?",
+        "correct_answer": "Metamorphic",
+        "incorrect_answers": [
+            "Igneous",
+            "Sedimentary",
+            "Fossilized"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the SI unit of electric charge?",
+        "correct_answer": "Coulomb",
+        "incorrect_answers": [
+            "Ampere",
+            "Volt",
+            "Ohm"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the molecule that stores genetic information in living organisms?",
+        "correct_answer": "DNA",
+        "incorrect_answers": [
+            "RNA",
+            "ATP",
+            "Protein"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the largest moon of Saturn?",
+        "correct_answer": "Titan",
+        "incorrect_answers": [
+            "Europa",
+            "Ganymede",
+            "Enceladus"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the main component of the Earth\u2019s core?",
+        "correct_answer": "Iron",
+        "incorrect_answers": [
+            "Nickel",
+            "Magnesium",
+            "Silicon"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which particle in an atom has no electric charge?",
+        "correct_answer": "Neutron",
+        "incorrect_answers": [
+            "Proton",
+            "Electron",
+            "Positron"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the process of water moving through a semipermeable membrane called?",
+        "correct_answer": "Osmosis",
+        "incorrect_answers": [
+            "Diffusion",
+            "Active Transport",
+            "Capillarity"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for the smallest angle of light deflected by a prism?",
+        "correct_answer": "Minimum Deviation",
+        "incorrect_answers": [
+            "Critical Angle",
+            "Angle of Refraction",
+            "Total Internal Reflection"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the boundary between two air masses with different densities?",
+        "correct_answer": "Front",
+        "incorrect_answers": [
+            "Thermocline",
+            "Isobar",
+            "Jet Stream"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which part of the electromagnetic spectrum has the shortest wavelength?",
+        "correct_answer": "Gamma Rays",
+        "incorrect_answers": [
+            "X-rays",
+            "Ultraviolet",
+            "Infrared"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for a protein that speeds up chemical reactions?",
+        "correct_answer": "Enzyme",
+        "incorrect_answers": [
+            "Hormone",
+            "Catalyst",
+            "Antibody"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the main gas emitted by volcanoes?",
+        "correct_answer": "Water Vapor",
+        "incorrect_answers": [
+            "Carbon Dioxide",
+            "Sulfur Dioxide",
+            "Methane"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which theory explains the movement of continents over geological time?",
+        "correct_answer": "Plate Tectonics",
+        "incorrect_answers": [
+            "Continental Drift",
+            "Seafloor Spreading",
+            "Mantle Convection"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the instrument used to measure relative humidity?",
+        "correct_answer": "Hygrometer",
+        "incorrect_answers": [
+            "Barometer",
+            "Anemometer",
+            "Thermometer"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What type of electromagnetic radiation is used in night-vision goggles?",
+        "correct_answer": "Infrared",
+        "incorrect_answers": [
+            "Ultraviolet",
+            "Microwaves",
+            "X-rays"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the compound with the formula H\u2082SO\u2084?",
+        "correct_answer": "Sulfuric Acid",
+        "incorrect_answers": [
+            "Sulfurous Acid",
+            "Hydrochloric Acid",
+            "Phosphoric Acid"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which layer of the Sun is visible during a solar eclipse?",
+        "correct_answer": "Corona",
+        "incorrect_answers": [
+            "Photosphere",
+            "Chromosphere",
+            "Core"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the most common isotope of uranium used in nuclear reactors?",
+        "correct_answer": "Uranium-235",
+        "incorrect_answers": [
+            "Uranium-238",
+            "Uranium-233",
+            "Uranium-239"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the phenomenon where light bends as it passes through different mediums?",
+        "correct_answer": "Refraction",
+        "incorrect_answers": [
+            "Reflection",
+            "Diffraction",
+            "Dispersion"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the protein found in red blood cells that binds oxygen?",
+        "correct_answer": "Hemoglobin",
+        "incorrect_answers": [
+            "Myoglobin",
+            "Albumin",
+            "Keratin"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for the ability of a liquid to flow against gravity in a narrow tube?",
+        "correct_answer": "Capillary Action",
+        "incorrect_answers": [
+            "Surface Tension",
+            "Adhesion",
+            "Osmosis"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for the region around a black hole from which nothing can escape?",
+        "correct_answer": "Event Horizon",
+        "incorrect_answers": [
+            "Singularity",
+            "Accretion Disk",
+            "Schwarzschild Radius"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the most common greenhouse gas in the Earth\u2019s atmosphere?",
+        "correct_answer": "Water Vapor",
+        "incorrect_answers": [
+            "Carbon Dioxide",
+            "Methane",
+            "Nitrous Oxide"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the strongest known natural material?",
+        "correct_answer": "Spider Silk (Dragline)",
+        "incorrect_answers": [
+            "Diamond",
+            "Graphene",
+            "Kevlar"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which particle is responsible for the strong nuclear force?",
+        "correct_answer": "Gluon",
+        "incorrect_answers": [
+            "Photon",
+            "Neutrino",
+            "Higgs Boson"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the approximate temperature of the Sun\u2019s surface?",
+        "correct_answer": "5,500\u00b0C (9,932\u00b0F)",
+        "incorrect_answers": [
+            "10",
+            "000\u00b0C",
+            "2",
+            "000\u00b0C",
+            "1",
+            "000\u00b0C"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the scientific name for the process by which solid carbon dioxide turns directly into gas?",
+        "correct_answer": "Sublimation",
+        "incorrect_answers": [
+            "Deposition",
+            "Evaporation",
+            "Melting"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the primary purpose of stomata in plants?",
+        "correct_answer": "Gas Exchange",
+        "incorrect_answers": [
+            "Water Transport",
+            "Nutrient Absorption",
+            "Photosynthesis"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which planet has the largest known canyon in the solar system?",
+        "correct_answer": "Mars (Valles Marineris)",
+        "incorrect_answers": [
+            "Earth",
+            "Venus",
+            "Mercury"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the largest glacier in the world?",
+        "correct_answer": "Lambert Glacier",
+        "incorrect_answers": [
+            "Siachen Glacier",
+            "Perito Moreno Glacier",
+            "Jakobshavn Glacier"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which scientist formulated the laws of planetary motion?",
+        "correct_answer": "Johannes Kepler",
+        "incorrect_answers": [
+            "Galileo Galilei",
+            "Nicolaus Copernicus",
+            "Isaac Newton"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What type of electromagnetic wave is used in MRI (Magnetic Resonance Imaging)?",
+        "correct_answer": "Radio Waves",
+        "incorrect_answers": [
+            "X-rays",
+            "Gamma Rays",
+            "Microwaves"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the most common isotope of hydrogen?",
+        "correct_answer": "Protium",
+        "incorrect_answers": [
+            "Deuterium",
+            "Tritium",
+            "Quadrium"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which element has the highest atomic number that occurs naturally?",
+        "correct_answer": "Uranium (92)",
+        "incorrect_answers": [
+            "Plutonium (94)",
+            "Radium (88)",
+            "Thorium (90)"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the study of insects called?",
+        "correct_answer": "Entomology",
+        "incorrect_answers": [
+            "Ichthyology",
+            "Herpetology",
+            "Ornithology"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the primary source of geothermal energy?",
+        "correct_answer": "Heat from Earth's Core",
+        "incorrect_answers": [
+            "Solar Radiation",
+            "Magma Movement",
+            "Tectonic Plate Friction"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for the time it takes for half of a radioactive substance to decay?",
+        "correct_answer": "Half-life",
+        "incorrect_answers": [
+            "Decay Constant",
+            "Isotope Lifetime",
+            "Radioactive Duration"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What are the primary constituents of a comet?",
+        "correct_answer": "Ice and Dust",
+        "incorrect_answers": [
+            "Rock and Iron",
+            "Hydrogen and Helium",
+            "Gas and Plasma"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for the amount of energy required to remove an electron from an atom?",
+        "correct_answer": "Ionization Energy",
+        "incorrect_answers": [
+            "Electron Affinity",
+            "Binding Energy",
+            "Electronegativity"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the scientific name for the Northern Lights?",
+        "correct_answer": "Aurora Borealis",
+        "incorrect_answers": [
+            "Aurora Australis",
+            "Magnetic Aurora",
+            "Solar Flare Glow"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the main function of ribosomes in cells?",
+        "correct_answer": "Protein Synthesis",
+        "incorrect_answers": [
+            "DNA Replication",
+            "ATP Production",
+            "Lipid Storage"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the chemical formula for rust?",
+        "correct_answer": "Fe\u2082O\u2083",
+        "incorrect_answers": [
+            "FeO",
+            "Fe\u2083O\u2084",
+            "Fe\u2082O\u2084"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which layer of the Earth generates its magnetic field?",
+        "correct_answer": "Outer Core",
+        "incorrect_answers": [
+            "Crust",
+            "Mantle",
+            "Inner Core"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What type of galaxy is the Andromeda Galaxy?",
+        "correct_answer": "Spiral Galaxy",
+        "incorrect_answers": [
+            "Elliptical Galaxy",
+            "Irregular Galaxy",
+            "Barred Galaxy"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for the study of the mechanical properties of fluids?",
+        "correct_answer": "Fluid Mechanics",
+        "incorrect_answers": [
+            "Thermodynamics",
+            "Hydraulics",
+            "Aerodynamics"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which gas is primarily responsible for the greenhouse effect?",
+        "correct_answer": "Carbon Dioxide",
+        "incorrect_answers": [
+            "Nitrogen",
+            "Oxygen",
+            "Argon"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the scientist who discovered penicillin?",
+        "correct_answer": "Alexander Fleming",
+        "incorrect_answers": [
+            "Louis Pasteur",
+            "Joseph Lister",
+            "Robert Koch"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the outermost layer of a virus?",
+        "correct_answer": "Capsid",
+        "incorrect_answers": [
+            "Envelope",
+            "Core",
+            "Membrane"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the energy produced during the splitting of a heavy nucleus called?",
+        "correct_answer": "Nuclear Fission",
+        "incorrect_answers": [
+            "Nuclear Fusion",
+            "Radioactive Decay",
+            "Gamma Emission"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which mineral is hardest on the Mohs scale?",
+        "correct_answer": "Diamond",
+        "incorrect_answers": [
+            "Corundum",
+            "Quartz",
+            "Topaz"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the primary gas in the Earth's stratosphere that absorbs ultraviolet radiation?",
+        "correct_answer": "Ozone",
+        "incorrect_answers": [
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Oxygen"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for an organism that produces its own food?",
+        "correct_answer": "Autotroph",
+        "incorrect_answers": [
+            "Heterotroph",
+            "Decomposer",
+            "Saprotroph"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the protein that provides structure to hair and nails?",
+        "correct_answer": "Keratin",
+        "incorrect_answers": [
+            "Collagen",
+            "Elastin",
+            "Myosin"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the phenomenon where water droplets act as a lens to create a rainbow?",
+        "correct_answer": "Refraction",
+        "incorrect_answers": [
+            "Diffraction",
+            "Reflection",
+            "Polarization"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the process by which a star converts hydrogen into helium?",
+        "correct_answer": "Nuclear Fusion",
+        "incorrect_answers": [
+            "Nuclear Fission",
+            "Radioactive Decay",
+            "Stellar Ignition"
+        ],
+        "difficulty": "hard"
+    }
+]

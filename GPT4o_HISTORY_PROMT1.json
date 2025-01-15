@@ -1,0 +1,2752 @@
+[
+    {
+        "question": "Who was the first President of the United States?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Benjamin Franklin"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What year did World War II end?",
+        "correct_answer": "1945",
+        "incorrect_answers": [
+            "1940",
+            "1939",
+            "1950"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was known as the \"Maid of Orleans\"?",
+        "correct_answer": "Joan of Arc",
+        "incorrect_answers": [
+            "Marie Curie",
+            "Queen Elizabeth I",
+            "Catherine the Great"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Where did the Renaissance begin?",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+            "France",
+            "Spain",
+            "Germany"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What ancient civilization built the pyramids?",
+        "correct_answer": "Egyptians",
+        "incorrect_answers": [
+            "Romans",
+            "Greeks",
+            "Mayans"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What event is associated with the year 1776 in American history?",
+        "correct_answer": "Declaration of Independence",
+        "incorrect_answers": [
+            "Civil War starts",
+            "Boston Tea Party",
+            "Bill of Rights"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the leader of Nazi Germany during World War II?",
+        "correct_answer": "Adolf Hitler",
+        "incorrect_answers": [
+            "Joseph Stalin",
+            "Winston Churchill",
+            "Franklin D. Roosevelt"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which empire built the Colosseum?",
+        "correct_answer": "Roman Empire",
+        "incorrect_answers": [
+            "Greek Empire",
+            "Ottoman Empire",
+            "Byzantine Empire"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What ship sank in 1912 after hitting an iceberg?",
+        "correct_answer": "Titanic",
+        "incorrect_answers": [
+            "Britannic",
+            "Lusitania",
+            "Queen Mary"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who discovered America in 1492?",
+        "correct_answer": "Christopher Columbus",
+        "incorrect_answers": [
+            "Ferdinand Magellan",
+            "Marco Polo",
+            "Leif Erikson"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the name of the first manned mission to land on the moon?",
+        "correct_answer": "Apollo 11",
+        "incorrect_answers": [
+            "Gemini 7",
+            "Voyager 1",
+            "Skylab"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the primary language of the Roman Empire?",
+        "correct_answer": "Latin",
+        "incorrect_answers": [
+            "Greek",
+            "Hebrew",
+            "Italian"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which U.S. state was the first to join the Union?",
+        "correct_answer": "Delaware",
+        "incorrect_answers": [
+            "Virginia",
+            "Pennsylvania",
+            "New York"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the first man to step on the moon?",
+        "correct_answer": "Neil Armstrong",
+        "incorrect_answers": [
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "John Glenn"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+            "Leonardo da Vinci",
+            "Raphael",
+            "Donatello"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What year did the Berlin Wall fall?",
+        "correct_answer": "1989",
+        "incorrect_answers": [
+            "1990",
+            "1985",
+            "1991"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who wrote the \"I Have a Dream\" speech?",
+        "correct_answer": "Martin Luther King Jr.",
+        "incorrect_answers": [
+            "Malcolm X",
+            "Frederick Douglass",
+            "Rosa Parks"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What country gifted the Statue of Liberty to the U.S.?",
+        "correct_answer": "France",
+        "incorrect_answers": [
+            "England",
+            "Germany",
+            "Spain"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Where did the Industrial Revolution begin?",
+        "correct_answer": "England",
+        "incorrect_answers": [
+            "United States",
+            "France",
+            "Germany"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the first capital of the United States?",
+        "correct_answer": "New York City",
+        "incorrect_answers": [
+            "Philadelphia",
+            "Washington D.C.",
+            "Boston"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the last Tsar of Russia?",
+        "correct_answer": "Nicholas II",
+        "incorrect_answers": [
+            "Alexander III",
+            "Ivan the Terrible",
+            "Peter the Great"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the oldest written language?",
+        "correct_answer": "Sumerian",
+        "incorrect_answers": [
+            "Latin",
+            "Sanskrit",
+            "Egyptian"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the famous queen of ancient Egypt?",
+        "correct_answer": "Cleopatra",
+        "incorrect_answers": [
+            "Nefertiti",
+            "Hatshepsut",
+            "Isis"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the name of the ship on which the Pilgrims traveled to America?",
+        "correct_answer": "Mayflower",
+        "incorrect_answers": [
+            "Santa Maria",
+            "Nina",
+            "Pinta"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What battle marked the end of Napoleon's rule?",
+        "correct_answer": "Waterloo",
+        "incorrect_answers": [
+            "Trafalgar",
+            "Austerlitz",
+            "Leipzig"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What empire was ruled by Genghis Khan?",
+        "correct_answer": "Mongol Empire",
+        "incorrect_answers": [
+            "Ottoman Empire",
+            "Persian Empire",
+            "Byzantine Empire"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "correct_answer": "Alexander Fleming",
+        "incorrect_answers": [
+            "Marie Curie",
+            "Louis Pasteur",
+            "Jonas Salk"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What war was fought between the North and South in the United States?",
+        "correct_answer": "Civil War",
+        "incorrect_answers": [
+            "Revolutionary War",
+            "War of 1812",
+            "Mexican-American War"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What country was Napoleon born in?",
+        "correct_answer": "Corsica (France)",
+        "incorrect_answers": [
+            "Italy",
+            "Austria",
+            "Switzerland"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What year did the United Nations form?",
+        "correct_answer": "1945",
+        "incorrect_answers": [
+            "1939",
+            "1948",
+            "1955"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the first female Prime Minister of the UK?",
+        "correct_answer": "Margaret Thatcher",
+        "incorrect_answers": [
+            "Theresa May",
+            "Angela Merkel",
+            "Indira Gandhi"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What empire built Machu Picchu?",
+        "correct_answer": "Inca Empire",
+        "incorrect_answers": [
+            "Aztec Empire",
+            "Mayan Empire",
+            "Spanish Empire"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who invented the printing press?",
+        "correct_answer": "Johannes Gutenberg",
+        "incorrect_answers": [
+            "Thomas Edison",
+            "Benjamin Franklin",
+            "Nikola Tesla"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What event started World War I?",
+        "correct_answer": "Assassination of Archduke Franz Ferdinand",
+        "incorrect_answers": [
+            "Sinking of the Lusitania",
+            "Bombing of Pearl Harbor",
+            "Invasion of Poland"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the first Emperor of Rome?",
+        "correct_answer": "Augustus",
+        "incorrect_answers": [
+            "Julius Caesar",
+            "Nero",
+            "Tiberius"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What country was formed after the fall of the Soviet Union?",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+            "Ukraine",
+            "Poland",
+            "Yugoslavia"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What dynasty built the Great Wall of China?",
+        "correct_answer": "Qin Dynasty",
+        "incorrect_answers": [
+            "Han Dynasty",
+            "Ming Dynasty",
+            "Tang Dynasty"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the first African American President of the U.S.?",
+        "correct_answer": "Barack Obama",
+        "incorrect_answers": [
+            "Martin Luther King Jr.",
+            "Jesse Jackson",
+            "Colin Powell"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the Titanic\u2019s destination?",
+        "correct_answer": "New York City",
+        "incorrect_answers": [
+            "London",
+            "Southampton",
+            "Boston"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the British Prime Minister during most of World War II?",
+        "correct_answer": "Winston Churchill",
+        "incorrect_answers": [
+            "Neville Chamberlain",
+            "Franklin D. Roosevelt",
+            "Joseph Stalin"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the name of the first U.S. space satellite?",
+        "correct_answer": "Explorer 1",
+        "incorrect_answers": [
+            "Sputnik",
+            "Apollo 1",
+            "Pioneer 10"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the Greek god of the sea?",
+        "correct_answer": "Poseidon",
+        "incorrect_answers": [
+            "Zeus",
+            "Hades",
+            "Apollo"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the ship Darwin sailed on?",
+        "correct_answer": "HMS Beagle",
+        "incorrect_answers": [
+            "HMS Victory",
+            "Endeavour",
+            "Mayflower"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who led India to independence through nonviolent resistance?",
+        "correct_answer": "Mahatma Gandhi",
+        "incorrect_answers": [
+            "Jawaharlal Nehru",
+            "Subhas Chandra Bose",
+            "Indira Gandhi"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What city was the capital of the Byzantine Empire?",
+        "correct_answer": "Constantinople",
+        "incorrect_answers": [
+            "Rome",
+            "Athens",
+            "Alexandria"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What year was the Berlin Wall built?",
+        "correct_answer": "1961",
+        "incorrect_answers": [
+            "1945",
+            "1950",
+            "1975"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the first ruler of a unified Germany?",
+        "correct_answer": "Otto von Bismarck",
+        "incorrect_answers": [
+            "Wilhelm II",
+            "Frederick the Great",
+            "Adolf Hitler"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the first man in space?",
+        "correct_answer": "Yuri Gagarin",
+        "incorrect_answers": [
+            "Neil Armstrong",
+            "Alan Shepard",
+            "John Glenn"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What country was divided into East and West after World War II?",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+            "Korea",
+            "Vietnam",
+            "Poland"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What civilization developed cuneiform writing?",
+        "correct_answer": "Sumerians",
+        "incorrect_answers": [
+            "Egyptians",
+            "Phoenicians",
+            "Babylonians"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was assassinated on April 4, 1968?",
+        "correct_answer": "Martin Luther King Jr.",
+        "incorrect_answers": [
+            "John F. Kennedy",
+            "Malcolm X",
+            "Robert F. Kennedy"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the first permanent English settlement in America?",
+        "correct_answer": "Jamestown",
+        "incorrect_answers": [
+            "Plymouth",
+            "Roanoke",
+            "Salem"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the U.S. President during the Great Depression?",
+        "correct_answer": "Franklin D. Roosevelt",
+        "incorrect_answers": [
+            "Herbert Hoover",
+            "Harry Truman",
+            "Woodrow Wilson"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the primary purpose of the Magna Carta?",
+        "correct_answer": "To limit the power of the king",
+        "incorrect_answers": [
+            "To establish a parliament",
+            "To end feudalism",
+            "To declare independence"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the name of the U.S. plan to rebuild Europe after World War II?",
+        "correct_answer": "Marshall Plan",
+        "incorrect_answers": [
+            "Truman Doctrine",
+            "New Deal",
+            "Lend-Lease Act"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "correct_answer": "Leonardo da Vinci",
+        "incorrect_answers": [
+            "Michelangelo",
+            "Raphael",
+            "Botticelli"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the first female pharaoh of Egypt?",
+        "correct_answer": "Hatshepsut",
+        "incorrect_answers": [
+            "Cleopatra",
+            "Nefertiti",
+            "Isis"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What battle ended the American Revolutionary War?",
+        "correct_answer": "Battle of Yorktown",
+        "incorrect_answers": [
+            "Battle of Saratoga",
+            "Battle of Bunker Hill",
+            "Battle of Trenton"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What country used the first tanks in warfare?",
+        "correct_answer": "Britain",
+        "incorrect_answers": [
+            "Germany",
+            "France",
+            "Russia"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who discovered America before Columbus?",
+        "correct_answer": "Leif Erikson",
+        "incorrect_answers": [
+            "Marco Polo",
+            "Ferdinand Magellan",
+            "Vasco da Gama"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the famous military leader of Carthage?",
+        "correct_answer": "Hannibal",
+        "incorrect_answers": [
+            "Scipio",
+            "Alexander the Great",
+            "Julius Caesar"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the name of the ship on which the Pilgrims sailed?",
+        "correct_answer": "Mayflower",
+        "incorrect_answers": [
+            "Nina",
+            "Santa Maria",
+            "Endeavour"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What year did the Titanic sink?",
+        "correct_answer": "1912",
+        "incorrect_answers": [
+            "1910",
+            "1914",
+            "1915"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the original purpose of the Great Wall of China?",
+        "correct_answer": "To protect against invasions",
+        "incorrect_answers": [
+            "To mark territory",
+            "To serve as a trade route",
+            "To collect taxes"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What treaty ended World War I?",
+        "correct_answer": "Treaty of Versailles",
+        "incorrect_answers": [
+            "Treaty of Paris",
+            "Treaty of Ghent",
+            "Treaty of Tordesillas"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the primary reason for the Cold War?",
+        "correct_answer": "Ideological conflict between capitalism and communism",
+        "incorrect_answers": [
+            "Territorial disputes",
+            "Religious differences",
+            "Trade disagreements"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the U.S. President during the Civil War?",
+        "correct_answer": "Abraham Lincoln",
+        "incorrect_answers": [
+            "Ulysses S. Grant",
+            "Andrew Johnson",
+            "Franklin Pierce"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What year did the U.S. enter World War II?",
+        "correct_answer": "1941",
+        "incorrect_answers": [
+            "1939",
+            "1940",
+            "1942"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the original name of Istanbul before it was renamed?",
+        "correct_answer": "Byzantium",
+        "incorrect_answers": [
+            "Antioch",
+            "Troy",
+            "Rhodes"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who succeeded Lenin as the leader of the Soviet Union?",
+        "correct_answer": "Joseph Stalin",
+        "incorrect_answers": [
+            "Leon Trotsky",
+            "Nikita Khrushchev",
+            "Vladimir Putin"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What treaty ended the Thirty Years' War?",
+        "correct_answer": "Treaty of Westphalia",
+        "incorrect_answers": [
+            "Treaty of Versailles",
+            "Treaty of Paris",
+            "Treaty of Utrecht"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the longest-reigning emperor of Japan?",
+        "correct_answer": "Emperor Hirohito",
+        "incorrect_answers": [
+            "Emperor Akihito",
+            "Emperor Meiji",
+            "Emperor Taisho"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the capital of the Aztec Empire?",
+        "correct_answer": "Tenochtitl\u00e1n",
+        "incorrect_answers": [
+            "Cuzco",
+            "Chichen Itza",
+            "Teotihuacan"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the leader of the Haitian Revolution?",
+        "correct_answer": "Toussaint Louverture",
+        "incorrect_answers": [
+            "Jean-Jacques Dessalines",
+            "Simon Bolivar",
+            "Emiliano Zapata"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Great Fire of London occur?",
+        "correct_answer": "1666",
+        "incorrect_answers": [
+            "1645",
+            "1703",
+            "1721"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the last emperor of the Western Roman Empire?",
+        "correct_answer": "Romulus Augustulus",
+        "incorrect_answers": [
+            "Julius Nepos",
+            "Constantine XI",
+            "Honorius"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which country colonized Indonesia?",
+        "correct_answer": "Netherlands",
+        "incorrect_answers": [
+            "Portugal",
+            "Spain",
+            "Britain"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was known as the \"Sun King\"?",
+        "correct_answer": "Louis XIV",
+        "incorrect_answers": [
+            "Louis XVI",
+            "Louis XIII",
+            "Charles V"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What battle marked the end of Napoleon's reign?",
+        "correct_answer": "Battle of Waterloo",
+        "incorrect_answers": [
+            "Battle of Leipzig",
+            "Battle of Austerlitz",
+            "Battle of Trafalgar"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which treaty divided the New World between Spain and Portugal?",
+        "correct_answer": "Treaty of Tordesillas",
+        "incorrect_answers": [
+            "Treaty of Zaragoza",
+            "Treaty of Westphalia",
+            "Treaty of Utrecht"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the first Crusade launched?",
+        "correct_answer": "1095",
+        "incorrect_answers": [
+            "1066",
+            "1204",
+            "1147"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first Tsar of Russia?",
+        "correct_answer": "Ivan the Terrible",
+        "incorrect_answers": [
+            "Peter the Great",
+            "Ivan III",
+            "Nicholas II"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Battle of Hastings take place?",
+        "correct_answer": "1066",
+        "incorrect_answers": [
+            "1016",
+            "1100",
+            "1035"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the leader of the Bolsheviks during the Russian Revolution?",
+        "correct_answer": "Vladimir Lenin",
+        "incorrect_answers": [
+            "Joseph Stalin",
+            "Leon Trotsky",
+            "Nicholas II"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the name of the first permanent French colony in North America?",
+        "correct_answer": "Quebec",
+        "incorrect_answers": [
+            "Montreal",
+            "New Orleans",
+            "Acadia"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the ruler of England during the Spanish Armada's invasion?",
+        "correct_answer": "Queen Elizabeth I",
+        "incorrect_answers": [
+            "Mary I",
+            "James I",
+            "Henry VIII"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the primary religion of the Mughal Empire?",
+        "correct_answer": "Islam",
+        "incorrect_answers": [
+            "Hinduism",
+            "Buddhism",
+            "Sikhism"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which city hosted the signing of the United Nations Charter?",
+        "correct_answer": "San Francisco",
+        "incorrect_answers": [
+            "New York",
+            "Geneva",
+            "Washington D.C."
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first Holy Roman Emperor?",
+        "correct_answer": "Charlemagne",
+        "incorrect_answers": [
+            "Otto I",
+            "Frederick Barbarossa",
+            "Louis the Pious"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Spanish Civil War begin?",
+        "correct_answer": "1936",
+        "incorrect_answers": [
+            "1933",
+            "1939",
+            "1941"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who led the French forces during the Battle of Orleans in 1429?",
+        "correct_answer": "Joan of Arc",
+        "incorrect_answers": [
+            "Charles VII",
+            "Philip the Good",
+            "John the Fearless"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the Magna Carta signed?",
+        "correct_answer": "1215",
+        "incorrect_answers": [
+            "1199",
+            "1301",
+            "1250"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which dynasty ruled China during the construction of the Forbidden City?",
+        "correct_answer": "Ming Dynasty",
+        "incorrect_answers": [
+            "Qing Dynasty",
+            "Tang Dynasty",
+            "Han Dynasty"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the emperor during the Pax Romana?",
+        "correct_answer": "Augustus",
+        "incorrect_answers": [
+            "Nero",
+            "Caligula",
+            "Marcus Aurelius"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Sepoy Rebellion take place?",
+        "correct_answer": "1857",
+        "incorrect_answers": [
+            "1847",
+            "1865",
+            "1870"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who unified Germany in 1871?",
+        "correct_answer": "Otto von Bismarck",
+        "incorrect_answers": [
+            "Kaiser Wilhelm II",
+            "Friedrich Ebert",
+            "Paul von Hindenburg"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What city was the capital of the Inca Empire?",
+        "correct_answer": "Cusco",
+        "incorrect_answers": [
+            "Lima",
+            "Quito",
+            "Machu Picchu"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the Egyptian queen who allied with Mark Antony?",
+        "correct_answer": "Cleopatra",
+        "incorrect_answers": [
+            "Nefertiti",
+            "Hatshepsut",
+            "Ankhesenamun"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the Berlin Wall built?",
+        "correct_answer": "1961",
+        "incorrect_answers": [
+            "1949",
+            "1955",
+            "1970"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the founder of the Persian Empire?",
+        "correct_answer": "Cyrus the Great",
+        "incorrect_answers": [
+            "Darius I",
+            "Xerxes",
+            "Artaxerxes"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Black Death peak in Europe?",
+        "correct_answer": "1347-1351",
+        "incorrect_answers": [
+            "1320-1325",
+            "1400-1405",
+            "1380-1385"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which city-state won the Peloponnesian War?",
+        "correct_answer": "Sparta",
+        "incorrect_answers": [
+            "Athens",
+            "Corinth",
+            "Thebes"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What dynasty followed the Mongol Yuan Dynasty in China?",
+        "correct_answer": "Ming Dynasty",
+        "incorrect_answers": [
+            "Song Dynasty",
+            "Qing Dynasty",
+            "Tang Dynasty"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who discovered the Antarctic?",
+        "correct_answer": "Fabian Gottlieb von Bellingshausen",
+        "incorrect_answers": [
+            "James Cook",
+            "Robert Scott",
+            "Ernest Shackleton"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the U.S. President during the Mexican-American War?",
+        "correct_answer": "James K. Polk",
+        "incorrect_answers": [
+            "Andrew Jackson",
+            "Zachary Taylor",
+            "Millard Fillmore"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the Rosetta Stone discovered?",
+        "correct_answer": "1799",
+        "incorrect_answers": [
+            "1805",
+            "1775",
+            "1820"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the Viking explorer who founded Vinland in North America?",
+        "correct_answer": "Leif Erikson",
+        "incorrect_answers": [
+            "Erik the Red",
+            "Harald Hardrada",
+            "Ragnar Lothbrok"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first president of independent Kenya?",
+        "correct_answer": "Jomo Kenyatta",
+        "incorrect_answers": [
+            "Daniel arap Moi",
+            "Julius Nyerere",
+            "Kwame Nkrumah"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the United States purchase Alaska from Russia?",
+        "correct_answer": "1867",
+        "incorrect_answers": [
+            "1850",
+            "1875",
+            "1890"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the name of the war between Athens and Sparta?",
+        "correct_answer": "Peloponnesian War",
+        "incorrect_answers": [
+            "Punic War",
+            "Trojan War",
+            "Corinthian War"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first female pharaoh of ancient Egypt?",
+        "correct_answer": "Hatshepsut",
+        "incorrect_answers": [
+            "Cleopatra",
+            "Nefertiti",
+            "Ankhesenamun"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Great Depression begin in the United States?",
+        "correct_answer": "1929",
+        "incorrect_answers": [
+            "1931",
+            "1927",
+            "1933"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the official language of the Byzantine Empire?",
+        "correct_answer": "Greek",
+        "incorrect_answers": [
+            "Latin",
+            "Aramaic",
+            "Persian"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What battle is considered the turning point of the American Civil War?",
+        "correct_answer": "Battle of Gettysburg",
+        "incorrect_answers": [
+            "Battle of Antietam",
+            "Battle of Fort Sumter",
+            "Battle of Shiloh"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the ruler of the Kingdom of Mali during its golden age?",
+        "correct_answer": "Mansa Musa",
+        "incorrect_answers": [
+            "Sundiata Keita",
+            "Askia Muhammad",
+            "Sonni Ali"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the French Revolution begin?",
+        "correct_answer": "1789",
+        "incorrect_answers": [
+            "1793",
+            "1776",
+            "1804"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the famous British Prime Minister during World War I?",
+        "correct_answer": "David Lloyd George",
+        "incorrect_answers": [
+            "Winston Churchill",
+            "Neville Chamberlain",
+            "Ramsay MacDonald"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the U.S. Constitution go into effect?",
+        "correct_answer": "1789",
+        "incorrect_answers": [
+            "1776",
+            "1787",
+            "1791"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What dynasty built the Taj Mahal?",
+        "correct_answer": "Mughal Dynasty",
+        "incorrect_answers": [
+            "Gupta Dynasty",
+            "Maurya Dynasty",
+            "Delhi Sultanate"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Norman Conquest of England occur?",
+        "correct_answer": "1066",
+        "incorrect_answers": [
+            "1055",
+            "1100",
+            "1080"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the leader of the Italian unification movement?",
+        "correct_answer": "Giuseppe Garibaldi",
+        "incorrect_answers": [
+            "Camillo Cavour",
+            "Vittorio Emanuele II",
+            "Giuseppe Mazzini"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the capital of the Byzantine Empire?",
+        "correct_answer": "Constantinople",
+        "incorrect_answers": [
+            "Athens",
+            "Rome",
+            "Antioch"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who wrote the \"Two Treatises of Government\"?",
+        "correct_answer": "John Locke",
+        "incorrect_answers": [
+            "Thomas Hobbes",
+            "Jean-Jacques Rousseau",
+            "Montesquieu"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did Napoleon crown himself Emperor of France?",
+        "correct_answer": "1804",
+        "incorrect_answers": [
+            "1799",
+            "1812",
+            "1800"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What civilization is credited with the invention of paper?",
+        "correct_answer": "Chinese",
+        "incorrect_answers": [
+            "Egyptians",
+            "Mesopotamians",
+            "Greeks"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who founded the Yuan Dynasty in China?",
+        "correct_answer": "Kublai Khan",
+        "incorrect_answers": [
+            "Genghis Khan",
+            "Batu Khan",
+            "Tamerlane"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Berlin Airlift begin?",
+        "correct_answer": "1948",
+        "incorrect_answers": [
+            "1947",
+            "1945",
+            "1950"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the founder of the Achaemenid Persian Empire?",
+        "correct_answer": "Cyrus the Great",
+        "incorrect_answers": [
+            "Xerxes",
+            "Darius I",
+            "Artaxerxes"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Roman Republic officially end?",
+        "correct_answer": "27 BC",
+        "incorrect_answers": [
+            "44 BC",
+            "14 AD",
+            "1 AD"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What city was the center of the Hellenistic world after Alexander the Great's death?",
+        "correct_answer": "Alexandria",
+        "incorrect_answers": [
+            "Athens",
+            "Sparta",
+            "Babylon"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did India gain independence from Britain?",
+        "correct_answer": "1947",
+        "incorrect_answers": [
+            "1945",
+            "1950",
+            "1939"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first ruler of the Ottoman Empire?",
+        "correct_answer": "Osman I",
+        "incorrect_answers": [
+            "Mehmed II",
+            "Suleiman the Magnificent",
+            "Bayezid I"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the name of the treaty that ended the Franco-Prussian War?",
+        "correct_answer": "Treaty of Frankfurt",
+        "incorrect_answers": [
+            "Treaty of Versailles",
+            "Treaty of Tilsit",
+            "Treaty of Amiens"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Korean War begin?",
+        "correct_answer": "1950",
+        "incorrect_answers": [
+            "1949",
+            "1953",
+            "1945"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Great Schism between the Eastern and Western Churches occur?",
+        "correct_answer": "1054",
+        "incorrect_answers": [
+            "1071",
+            "1000",
+            "1100"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who led the Spanish conquest of the Aztec Empire?",
+        "correct_answer": "Hern\u00e1n Cort\u00e9s",
+        "incorrect_answers": [
+            "Francisco Pizarro",
+            "Vasco N\u00fa\u00f1ez de Balboa",
+            "Pedro de Alvarado"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the League of Nations founded?",
+        "correct_answer": "1920",
+        "incorrect_answers": [
+            "1919",
+            "1930",
+            "1935"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the leader of the Zulu Kingdom during the early 19th century?",
+        "correct_answer": "Shaka Zulu",
+        "incorrect_answers": [
+            "Cetshwayo",
+            "Dingane",
+            "Mpande"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the Roman goddess of love?",
+        "correct_answer": "Venus",
+        "incorrect_answers": [
+            "Hera",
+            "Athena",
+            "Aphrodite"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the discovery of America by Christopher Columbus?",
+        "correct_answer": "1492",
+        "incorrect_answers": [
+            "1482",
+            "1500",
+            "1453"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Protestant Reformation begin?",
+        "correct_answer": "1517",
+        "incorrect_answers": [
+            "1534",
+            "1500",
+            "1555"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What treaty ended the War of 1812?",
+        "correct_answer": "Treaty of Ghent",
+        "incorrect_answers": [
+            "Treaty of Paris",
+            "Treaty of Versailles",
+            "Treaty of Utrecht"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Mexican Revolution begin?",
+        "correct_answer": "1910",
+        "incorrect_answers": [
+            "1905",
+            "1914",
+            "1920"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first ruler of unified Germany?",
+        "correct_answer": "Wilhelm I",
+        "incorrect_answers": [
+            "Otto von Bismarck",
+            "Friedrich Wilhelm IV",
+            "Ludwig II"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What empire did Francisco Pizarro conquer?",
+        "correct_answer": "Inca Empire",
+        "incorrect_answers": [
+            "Aztec Empire",
+            "Mayan Empire",
+            "Toltec Empire"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the last czar of Russia?",
+        "correct_answer": "Nicholas II",
+        "incorrect_answers": [
+            "Alexander III",
+            "Peter the Great",
+            "Ivan IV"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the Louisiana Purchase?",
+        "correct_answer": "1803",
+        "incorrect_answers": [
+            "1800",
+            "1812",
+            "1799"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the Cuban Missile Crisis?",
+        "correct_answer": "1962",
+        "incorrect_answers": [
+            "1960",
+            "1965",
+            "1970"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Renaissance begin approximately?",
+        "correct_answer": "14th century",
+        "incorrect_answers": [
+            "13th century",
+            "15th century",
+            "16th century"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first king of England?",
+        "correct_answer": "\u00c6thelstan",
+        "incorrect_answers": [
+            "Alfred the Great",
+            "William the Conqueror",
+            "Richard the Lionheart"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the main cause of the War of Spanish Succession?",
+        "correct_answer": "Succession dispute over the Spanish throne",
+        "incorrect_answers": [
+            "Religious conflicts",
+            "Colonial disputes",
+            "Territorial expansion"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who discovered Australia for the British Empire?",
+        "correct_answer": "James Cook",
+        "incorrect_answers": [
+            "Abel Tasman",
+            "Ferdinand Magellan",
+            "Francis Drake"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What empire was founded by Chinggis Khan?",
+        "correct_answer": "Mongol Empire",
+        "incorrect_answers": [
+            "Ottoman Empire",
+            "Mughal Empire",
+            "Byzantine Empire"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the capital of the Carolingian Empire under Charlemagne?",
+        "correct_answer": "Aachen",
+        "incorrect_answers": [
+            "Paris",
+            "Rome",
+            "Vienna"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who invented the movable-type printing press?",
+        "correct_answer": "Johannes Gutenberg",
+        "incorrect_answers": [
+            "William Caxton",
+            "Aldus Manutius",
+            "Martin Luther"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Hundred Years' War begin?",
+        "correct_answer": "1337",
+        "incorrect_answers": [
+            "1320",
+            "1350",
+            "1400"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What dynasty ruled China during the Opium Wars?",
+        "correct_answer": "Qing Dynasty",
+        "incorrect_answers": [
+            "Ming Dynasty",
+            "Song Dynasty",
+            "Yuan Dynasty"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first Prime Minister of Canada?",
+        "correct_answer": "John A. Macdonald",
+        "incorrect_answers": [
+            "Pierre Trudeau",
+            "Wilfrid Laurier",
+            "Lester B. Pearson"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Vietnam War end?",
+        "correct_answer": "1975",
+        "incorrect_answers": [
+            "1973",
+            "1970",
+            "1980"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What battle marked the end of Hannibal\u2019s campaign in Italy?",
+        "correct_answer": "Battle of Zama",
+        "incorrect_answers": [
+            "Battle of Cannae",
+            "Battle of Trebia",
+            "Battle of Lake Trasimene"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first female Prime Minister of the United Kingdom?",
+        "correct_answer": "Margaret Thatcher",
+        "incorrect_answers": [
+            "Theresa May",
+            "Angela Merkel",
+            "Golda Meir"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the main purpose of the Spanish Inquisition?",
+        "correct_answer": "Enforce Catholic orthodoxy",
+        "incorrect_answers": [
+            "Promote exploration",
+            "Spread Protestantism",
+            "End feudalism"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the king of France during the American Revolution?",
+        "correct_answer": "Louis XVI",
+        "incorrect_answers": [
+            "Louis XIV",
+            "Louis XV",
+            "Charles X"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first President of South Africa after apartheid?",
+        "correct_answer": "Nelson Mandela",
+        "incorrect_answers": [
+            "F.W. de Klerk",
+            "Thabo Mbeki",
+            "Jacob Zuma"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did Japan attack Pearl Harbor?",
+        "correct_answer": "1941",
+        "incorrect_answers": [
+            "1940",
+            "1942",
+            "1945"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the fall of Constantinople?",
+        "correct_answer": "1453",
+        "incorrect_answers": [
+            "1415",
+            "1492",
+            "1517"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the emperor of Japan during World War II?",
+        "correct_answer": "Emperor Hirohito",
+        "incorrect_answers": [
+            "Emperor Taisho",
+            "Emperor Meiji",
+            "Emperor Akihito"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the first United Nations General Assembly held?",
+        "correct_answer": "1946",
+        "incorrect_answers": [
+            "1945",
+            "1947",
+            "1950"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What explorer reached the Cape of Good Hope first?",
+        "correct_answer": "Bartolomeu Dias",
+        "incorrect_answers": [
+            "Vasco da Gama",
+            "Ferdinand Magellan",
+            "Christopher Columbus"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the ruler of Prussia during its unification of Germany?",
+        "correct_answer": "Wilhelm I",
+        "incorrect_answers": [
+            "Otto von Bismarck",
+            "Friedrich Wilhelm IV",
+            "Wilhelm II"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the name of the Soviet satellite launched in 1957?",
+        "correct_answer": "Sputnik",
+        "incorrect_answers": [
+            "Vostok",
+            "Soyuz",
+            "Luna"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first person to circumnavigate the globe?",
+        "correct_answer": "Ferdinand Magellan's crew",
+        "incorrect_answers": [
+            "Christopher Columbus",
+            "James Cook",
+            "Vasco da Gama"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the first manned moon landing?",
+        "correct_answer": "1969",
+        "incorrect_answers": [
+            "1965",
+            "1970",
+            "1967"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What civilization built the city of Petra?",
+        "correct_answer": "Nabataeans",
+        "incorrect_answers": [
+            "Romans",
+            "Egyptians",
+            "Babylonians"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the Treaty of Versailles signed?",
+        "correct_answer": "1919",
+        "incorrect_answers": [
+            "1920",
+            "1918",
+            "1925"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "correct_answer": "Alexander Fleming",
+        "incorrect_answers": [
+            "Louis Pasteur",
+            "Edward Jenner",
+            "Robert Koch"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Great Wall of China construction begin?",
+        "correct_answer": "7th century BC",
+        "incorrect_answers": [
+            "5th century BC",
+            "3rd century BC",
+            "1st century AD"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the Soviet Union dissolved?",
+        "correct_answer": "1991",
+        "incorrect_answers": [
+            "1989",
+            "1990",
+            "1992"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first ruler of the Byzantine Empire?",
+        "correct_answer": "Constantine the Great",
+        "incorrect_answers": [
+            "Justinian I",
+            "Diocletian",
+            "Heraclius"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Crimean War begin?",
+        "correct_answer": "1853",
+        "incorrect_answers": [
+            "1848",
+            "1861",
+            "1870"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first Chancellor of Germany?",
+        "correct_answer": "Otto von Bismarck",
+        "incorrect_answers": [
+            "Wilhelm I",
+            "Friedrich Ebert",
+            "Konrad Adenauer"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the discovery of America by Vikings?",
+        "correct_answer": "Around 1000 AD",
+        "incorrect_answers": [
+            "1200 AD",
+            "900 AD",
+            "1100 AD"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first female pharaoh to declare herself king?",
+        "correct_answer": "Hatshepsut",
+        "incorrect_answers": [
+            "Cleopatra",
+            "Nefertiti",
+            "Sobekneferu"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Boxer Rebellion occur in China?",
+        "correct_answer": "1899-1901",
+        "incorrect_answers": [
+            "1885-1890",
+            "1905-1906",
+            "1910-1912"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who led the American forces during the Revolutionary War?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "Thomas Jefferson",
+            "Benjamin Franklin",
+            "John Adams"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Spanish Armada set sail to invade England?",
+        "correct_answer": "1588",
+        "incorrect_answers": [
+            "1601",
+            "1579",
+            "1595"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What dynasty ruled Egypt before Alexander the Great\u2019s conquest?",
+        "correct_answer": "31st Dynasty",
+        "incorrect_answers": [
+            "26th Dynasty",
+            "25th Dynasty",
+            "27th Dynasty"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the last ruler of the Holy Roman Empire?",
+        "correct_answer": "Francis II",
+        "incorrect_answers": [
+            "Charles V",
+            "Leopold II",
+            "Ferdinand I"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Romanov dynasty come to power in Russia?",
+        "correct_answer": "1613",
+        "incorrect_answers": [
+            "1600",
+            "1625",
+            "1598"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the name of the ship Charles Darwin sailed on?",
+        "correct_answer": "HMS Beagle",
+        "incorrect_answers": [
+            "HMS Endeavour",
+            "HMS Discovery",
+            "HMS Challenger"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first President of the United States to be impeached?",
+        "correct_answer": "Andrew Johnson",
+        "incorrect_answers": [
+            "Richard Nixon",
+            "Bill Clinton",
+            "Ulysses S. Grant"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Great Fire of Rome occur?",
+        "correct_answer": "64 AD",
+        "incorrect_answers": [
+            "50 AD",
+            "70 AD",
+            "80 AD"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who founded the city of Carthage?",
+        "correct_answer": "Queen Dido",
+        "incorrect_answers": [
+            "Hannibal",
+            "Scipio Africanus",
+            "Hamilcar Barca"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Warsaw Pact form?",
+        "correct_answer": "1955",
+        "incorrect_answers": [
+            "1949",
+            "1950",
+            "1957"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the last ruler of the Ptolemaic dynasty in Egypt?",
+        "correct_answer": "Cleopatra VII",
+        "incorrect_answers": [
+            "Ptolemy XIII",
+            "Ptolemy XV",
+            "Arsinoe IV"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Partition of India occur?",
+        "correct_answer": "1947",
+        "incorrect_answers": [
+            "1945",
+            "1950",
+            "1939"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What empire is considered the largest contiguous land empire in history?",
+        "correct_answer": "Mongol Empire",
+        "incorrect_answers": [
+            "Roman Empire",
+            "Ottoman Empire",
+            "British Empire"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who led the conquest of the Inca Empire?",
+        "correct_answer": "Francisco Pizarro",
+        "incorrect_answers": [
+            "Hern\u00e1n Cort\u00e9s",
+            "Vasco N\u00fa\u00f1ez de Balboa",
+            "Pedro de Alvarado"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the French and Indian War end?",
+        "correct_answer": "1763",
+        "incorrect_answers": [
+            "1755",
+            "1770",
+            "1775"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first ruler of the Holy Roman Empire?",
+        "correct_answer": "Charlemagne",
+        "incorrect_answers": [
+            "Otto I",
+            "Frederick Barbarossa",
+            "Henry IV"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the U.S. Supreme Court rule in Brown v. Board of Education?",
+        "correct_answer": "1954",
+        "incorrect_answers": [
+            "1950",
+            "1960",
+            "1965"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who led the Haitian Revolution to independence?",
+        "correct_answer": "Toussaint Louverture",
+        "incorrect_answers": [
+            "Jean-Jacques Dessalines",
+            "Simon Bolivar",
+            "Napoleon Bonaparte"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the Treaty of Tordesillas signed?",
+        "correct_answer": "1494",
+        "incorrect_answers": [
+            "1500",
+            "1480",
+            "1498"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the American Revolutionary War end?",
+        "correct_answer": "1783",
+        "incorrect_answers": [
+            "1781",
+            "1776",
+            "1790"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the ruler of Russia during the Napoleonic Wars?",
+        "correct_answer": "Alexander I",
+        "incorrect_answers": [
+            "Nicholas I",
+            "Peter the Great",
+            "Catherine the Great"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the United States founded?",
+        "correct_answer": "1776",
+        "incorrect_answers": [
+            "1781",
+            "1770",
+            "1790"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Berlin Wall fall?",
+        "correct_answer": "1989",
+        "incorrect_answers": [
+            "1987",
+            "1991",
+            "1985"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Spanish Inquisition officially end?",
+        "correct_answer": "1834",
+        "incorrect_answers": [
+            "1800",
+            "1750",
+            "1850"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first ruler of the Ottoman Empire to conquer Constantinople?",
+        "correct_answer": "Mehmed II",
+        "incorrect_answers": [
+            "Suleiman the Magnificent",
+            "Bayezid I",
+            "Osman I"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Suez Crisis occur?",
+        "correct_answer": "1956",
+        "incorrect_answers": [
+            "1948",
+            "1960",
+            "1967"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What civilization built the Hanging Gardens of Babylon?",
+        "correct_answer": "Babylonians",
+        "incorrect_answers": [
+            "Assyrians",
+            "Persians",
+            "Sumerians"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the Roman emperor at the time of the eruption of Mount Vesuvius in 79 AD?",
+        "correct_answer": "Titus",
+        "incorrect_answers": [
+            "Nero",
+            "Domitian",
+            "Vespasian"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year did the Boxer Rebellion end?",
+        "correct_answer": "1901",
+        "incorrect_answers": [
+            "1899",
+            "1900",
+            "1905"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the primary cause of the War of 1812?",
+        "correct_answer": "Trade restrictions and impressment",
+        "incorrect_answers": [
+            "Territorial disputes",
+            "Religious conflict",
+            "Colonial taxes"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the Battle of Kosovo fought?",
+        "correct_answer": "1389",
+        "incorrect_answers": [
+            "1399",
+            "1378",
+            "1401"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the founder of the Safavid Empire?",
+        "correct_answer": "Shah Ismail I",
+        "incorrect_answers": [
+            "Shah Abbas",
+            "Timur",
+            "Babur"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the An Lushan Rebellion begin in China?",
+        "correct_answer": "755 AD",
+        "incorrect_answers": [
+            "750 AD",
+            "760 AD",
+            "745 AD"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What treaty ended the Russo-Japanese War?",
+        "correct_answer": "Treaty of Portsmouth",
+        "incorrect_answers": [
+            "Treaty of Brest-Litovsk",
+            "Treaty of Nanking",
+            "Treaty of San Stefano"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the last emperor of the Mughal Empire?",
+        "correct_answer": "Bahadur Shah II",
+        "incorrect_answers": [
+            "Aurangzeb",
+            "Shah Jahan",
+            "Akbar II"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Taiping Rebellion start?",
+        "correct_answer": "1850",
+        "incorrect_answers": [
+            "1835",
+            "1860",
+            "1870"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the first ruler of the Sassanian Empire?",
+        "correct_answer": "Ardashir I",
+        "incorrect_answers": [
+            "Shapur I",
+            "Cyrus the Great",
+            "Darius III"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Byzantine Empire fall to the Ottoman Empire?",
+        "correct_answer": "1453",
+        "incorrect_answers": [
+            "1492",
+            "1415",
+            "1500"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What was the capital of the Kingdom of Kush?",
+        "correct_answer": "Mero\u00eb",
+        "incorrect_answers": [
+            "Axum",
+            "Thebes",
+            "Napata"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who wrote the Arthashastra, an ancient Indian treatise on statecraft?",
+        "correct_answer": "Chanakya (Kautilya)",
+        "incorrect_answers": [
+            "Ashoka",
+            "Kalidasa",
+            "Harsha"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year was the Meiji Restoration?",
+        "correct_answer": "1868",
+        "incorrect_answers": [
+            "1853",
+            "1877",
+            "1885"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the first ruler of the Mauryan Empire?",
+        "correct_answer": "Chandragupta Maurya",
+        "incorrect_answers": [
+            "Ashoka",
+            "Bindusara",
+            "Harsha"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the First Opium War end?",
+        "correct_answer": "1842",
+        "incorrect_answers": [
+            "1839",
+            "1845",
+            "1850"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the Carthaginian general during the First Punic War?",
+        "correct_answer": "Hamilcar Barca",
+        "incorrect_answers": [
+            "Hannibal Barca",
+            "Hasdrubal",
+            "Mago Barca"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Fourth Crusade begin?",
+        "correct_answer": "1202",
+        "incorrect_answers": [
+            "1215",
+            "1190",
+            "1220"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the first ruler of unified Korea under the Goryeo Dynasty?",
+        "correct_answer": "Wang Geon",
+        "incorrect_answers": [
+            "Yi Seong-gye",
+            "Dangun",
+            "King Munmu"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What was the capital of the Achaemenid Empire?",
+        "correct_answer": "Persepolis",
+        "incorrect_answers": [
+            "Babylon",
+            "Susa",
+            "Pasargadae"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the emperor during the construction of the Colosseum?",
+        "correct_answer": "Vespasian",
+        "incorrect_answers": [
+            "Nero",
+            "Titus",
+            "Domitian"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Battle of Lepanto occur?",
+        "correct_answer": "1571",
+        "incorrect_answers": [
+            "1555",
+            "1580",
+            "1595"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the leader of the Sicilian Expedition in ancient Athens?",
+        "correct_answer": "Nicias",
+        "incorrect_answers": [
+            "Alcibiades",
+            "Pericles",
+            "Thucydides"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the founder of the Zulu Kingdom?",
+        "correct_answer": "Shaka Zulu",
+        "incorrect_answers": [
+            "Cetshwayo",
+            "Dingane",
+            "Mpande"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Peace of Westphalia occur?",
+        "correct_answer": "1648",
+        "incorrect_answers": [
+            "1645",
+            "1650",
+            "1630"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What was the capital of the Songhai Empire?",
+        "correct_answer": "Gao",
+        "incorrect_answers": [
+            "Timbuktu",
+            "Djenne",
+            "Agadez"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the last ruler of the Eastern Roman Empire?",
+        "correct_answer": "Constantine XI",
+        "incorrect_answers": [
+            "Justinian I",
+            "Heraclius",
+            "Theophilos"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Congress of Vienna take place?",
+        "correct_answer": "1815",
+        "incorrect_answers": [
+            "1805",
+            "1820",
+            "1810"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who led the British forces during the Battle of Saratoga?",
+        "correct_answer": "General John Burgoyne",
+        "incorrect_answers": [
+            "Lord Cornwallis",
+            "General Howe",
+            "General Clinton"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the founder of the Ming Dynasty?",
+        "correct_answer": "Zhu Yuanzhang",
+        "incorrect_answers": [
+            "Yongle Emperor",
+            "Kublai Khan",
+            "Qin Shi Huang"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Siege of Orleans occur?",
+        "correct_answer": "1429",
+        "incorrect_answers": [
+            "1435",
+            "1415",
+            "1400"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the founder of the Gupta Empire?",
+        "correct_answer": "Chandragupta I",
+        "incorrect_answers": [
+            "Samudragupta",
+            "Ashoka",
+            "Harsha"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Treaty of Guadalupe Hidalgo end the Mexican-American War?",
+        "correct_answer": "1848",
+        "incorrect_answers": [
+            "1845",
+            "1850",
+            "1835"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the ruler of the Kingdom of Dahomey during its peak?",
+        "correct_answer": "King Ghezo",
+        "incorrect_answers": [
+            "King Agaja",
+            "King Tegbesu",
+            "King Kpengla"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Suez Crisis end?",
+        "correct_answer": "1957",
+        "incorrect_answers": [
+            "1956",
+            "1955",
+            "1960"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What was the name of the peace treaty that ended the Peloponnesian War?",
+        "correct_answer": "Treaty of Nicias",
+        "incorrect_answers": [
+            "Treaty of Melos",
+            "Treaty of Delos",
+            "Treaty of Pylos"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the founder of the Khmer Empire?",
+        "correct_answer": "Jayavarman II",
+        "incorrect_answers": [
+            "Suryavarman II",
+            "Yasovarman I",
+            "Indravarman I"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Third Crusade begin?",
+        "correct_answer": "1189",
+        "incorrect_answers": [
+            "1192",
+            "1170",
+            "1200"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the last ruler of the Abbasid Caliphate before the Mongol invasion?",
+        "correct_answer": "Al-Musta'sim",
+        "incorrect_answers": [
+            "Harun al-Rashid",
+            "Al-Mamun",
+            "Al-Mutawakkil"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Treaty of Verdun divide the Carolingian Empire?",
+        "correct_answer": "843 AD",
+        "incorrect_answers": [
+            "850 AD",
+            "835 AD",
+            "860 AD"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the founder of the Timurid Empire?",
+        "correct_answer": "Timur (Tamerlane)",
+        "incorrect_answers": [
+            "Babur",
+            "Genghis Khan",
+            "Shah Ismail"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Partition of Poland end?",
+        "correct_answer": "1795",
+        "incorrect_answers": [
+            "1789",
+            "1800",
+            "1810"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who led the Athenian forces during the Battle of Marathon?",
+        "correct_answer": "Miltiades",
+        "incorrect_answers": [
+            "Themistocles",
+            "Pericles",
+            "Aristides"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the First Crusade capture Jerusalem?",
+        "correct_answer": "1099",
+        "incorrect_answers": [
+            "1100",
+            "1089",
+            "1115"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the first ruler of the Kingdom of Axum?",
+        "correct_answer": "Ezana of Axum",
+        "incorrect_answers": [
+            "Kaleb",
+            "Zara Yaqob",
+            "Lalibela"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Byzantine Empire officially adopt Christianity as its state religion?",
+        "correct_answer": "380 AD",
+        "incorrect_answers": [
+            "325 AD",
+            "395 AD",
+            "400 AD"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the last king of the Neo-Babylonian Empire?",
+        "correct_answer": "Nabonidus",
+        "incorrect_answers": [
+            "Nebuchadnezzar II",
+            "Hammurabi",
+            "Belshazzar"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Treaty of Adrianople end the Russo-Turkish War?",
+        "correct_answer": "1829",
+        "incorrect_answers": [
+            "1815",
+            "1835",
+            "1820"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the leader of the Islamic Golden Age's House of Wisdom in Baghdad?",
+        "correct_answer": "Al-Ma'mun",
+        "incorrect_answers": [
+            "Al-Mansur",
+            "Al-Rashid",
+            "Al-Mutawakkil"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Kingdom of Hawaii become a U.S. territory?",
+        "correct_answer": "1898",
+        "incorrect_answers": [
+            "1900",
+            "1887",
+            "1905"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the first ruler of the Delhi Sultanate?",
+        "correct_answer": "Qutb-ud-din Aibak",
+        "incorrect_answers": [
+            "Alauddin Khilji",
+            "Muhammad Ghori",
+            "Balban"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Siege of Vienna occur during the Ottoman-Habsburg Wars?",
+        "correct_answer": "1529",
+        "incorrect_answers": [
+            "1683",
+            "1500",
+            "1555"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the longest-reigning pharaoh of ancient Egypt?",
+        "correct_answer": "Ramesses II",
+        "incorrect_answers": [
+            "Thutmose III",
+            "Amenhotep III",
+            "Akhenaten"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Second Sino-Japanese War begin?",
+        "correct_answer": "1937",
+        "incorrect_answers": [
+            "1935",
+            "1940",
+            "1939"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the founder of the Pala Empire in India?",
+        "correct_answer": "Gopala I",
+        "incorrect_answers": [
+            "Dharmapala",
+            "Devapala",
+            "Mahipala"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Viking Age end?",
+        "correct_answer": "1066",
+        "incorrect_answers": [
+            "1000",
+            "1080",
+            "1050"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the ruler of the Hittite Empire during its peak?",
+        "correct_answer": "Suppiluliuma I",
+        "incorrect_answers": [
+            "Muwatalli II",
+            "Hattusili III",
+            "Tudhaliya IV"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year was the Battle of Tours fought, halting the Islamic expansion into Europe?",
+        "correct_answer": "732 AD",
+        "incorrect_answers": [
+            "750 AD",
+            "715 AD",
+            "800 AD"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the first ruler of the Qin Dynasty?",
+        "correct_answer": "Qin Shi Huang",
+        "incorrect_answers": [
+            "Liu Bang",
+            "Xiang Yu",
+            "Zhao Tuo"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Great Northern War end?",
+        "correct_answer": "1721",
+        "incorrect_answers": [
+            "1709",
+            "1730",
+            "1715"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the leader of the Mexican forces during the Battle of the Alamo?",
+        "correct_answer": "Antonio L\u00f3pez de Santa Anna",
+        "incorrect_answers": [
+            "Vicente Guerrero",
+            "Miguel Hidalgo",
+            "Emiliano Zapata"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Kingdom of Italy officially unite?",
+        "correct_answer": "1861",
+        "incorrect_answers": [
+            "1870",
+            "1850",
+            "1848"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Ethiopian Empire defeat Italy at the Battle of Adwa?",
+        "correct_answer": "1896",
+        "incorrect_answers": [
+            "1885",
+            "1900",
+            "1875"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the founder of the Chola Dynasty in South India?",
+        "correct_answer": "Vijayalaya Chola",
+        "incorrect_answers": [
+            "Rajaraja Chola",
+            "Karikala Chola",
+            "Parantaka Chola"
+        ],
+        "difficulty": "hard"
+    }
+]
