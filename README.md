@@ -11,7 +11,7 @@ Durch den systematischen Vergleich soll ermittelt werden, ob LLMs eine sin- nvol
 ## Umfang
 
 Datenquellen:
-- Open Trivia Database (OTDB): Fragen zu verschiedenen Kategorien wer- den über eine API abgerufen.
+- Open Trivia Database (OTDB): Fragen zu verschiedenen Kategorien werden über eine API abgerufen.
 - Large Language Model (LLM): Ein LLM wird genutzt, um Fragen und Antwortmöglichkeiten zu denselben Kategorien zu generieren.
 
 Kategorien:
