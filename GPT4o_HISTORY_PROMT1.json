@@ -380,7 +380,7 @@
         "difficulty": "easy"
     },
     {
-        "question": "What was the Titanic\u2019s destination?",
+        "question": "What was the Titanic’s destination?",
         "correct_answer": "New York City",
         "incorrect_answers": [
             "London",
@@ -721,7 +721,7 @@
     },
     {
         "question": "What was the capital of the Aztec Empire?",
-        "correct_answer": "Tenochtitl\u00e1n",
+        "correct_answer": "Tenochtitlán",
         "incorrect_answers": [
             "Cuzco",
             "Chichen Itza",
@@ -1351,10 +1351,10 @@
     },
     {
         "question": "Who led the Spanish conquest of the Aztec Empire?",
-        "correct_answer": "Hern\u00e1n Cort\u00e9s",
+        "correct_answer": "Hernán Cortés",
         "incorrect_answers": [
             "Francisco Pizarro",
-            "Vasco N\u00fa\u00f1ez de Balboa",
+            "Vasco Núñez de Balboa",
             "Pedro de Alvarado"
         ],
         "difficulty": "medium"
@@ -1491,7 +1491,7 @@
     },
     {
         "question": "Who was the first king of England?",
-        "correct_answer": "\u00c6thelstan",
+        "correct_answer": "Æthelstan",
         "incorrect_answers": [
             "Alfred the Great",
             "William the Conqueror",
@@ -1590,7 +1590,7 @@
         "difficulty": "medium"
     },
     {
-        "question": "What battle marked the end of Hannibal\u2019s campaign in Italy?",
+        "question": "What battle marked the end of Hannibal’s campaign in Italy?",
         "correct_answer": "Battle of Zama",
         "incorrect_answers": [
             "Battle of Cannae",
@@ -1860,7 +1860,7 @@
         "difficulty": "medium"
     },
     {
-        "question": "What dynasty ruled Egypt before Alexander the Great\u2019s conquest?",
+        "question": "What dynasty ruled Egypt before Alexander the Great’s conquest?",
         "correct_answer": "31st Dynasty",
         "incorrect_answers": [
             "26th Dynasty",
@@ -1973,8 +1973,8 @@
         "question": "Who led the conquest of the Inca Empire?",
         "correct_answer": "Francisco Pizarro",
         "incorrect_answers": [
-            "Hern\u00e1n Cort\u00e9s",
-            "Vasco N\u00fa\u00f1ez de Balboa",
+            "Hernán Cortés",
+            "Vasco Núñez de Balboa",
             "Pedro de Alvarado"
         ],
         "difficulty": "medium"
@@ -2221,7 +2221,7 @@
     },
     {
         "question": "What was the capital of the Kingdom of Kush?",
-        "correct_answer": "Mero\u00eb",
+        "correct_answer": "Meroë",
         "incorrect_answers": [
             "Axum",
             "Thebes",
@@ -2711,7 +2711,7 @@
     },
     {
         "question": "Who was the leader of the Mexican forces during the Battle of the Alamo?",
-        "correct_answer": "Antonio L\u00f3pez de Santa Anna",
+        "correct_answer": "Antonio López de Santa Anna",
         "incorrect_answers": [
             "Vicente Guerrero",
             "Miguel Hidalgo",

@@ -61,11 +61,11 @@
     },
     {
         "question": "What is the chemical symbol for water?",
-        "correct_answer": "H\u2082O",
+        "correct_answer": "H₂O",
         "incorrect_answers": [
             "HO",
-            "H\u2082",
-            "O\u2082"
+            "H₂",
+            "O₂"
         ],
         "difficulty": "easy"
     },
@@ -131,11 +131,11 @@
     },
     {
         "question": "What is the boiling point of water in Celsius?",
-        "correct_answer": "100\u00b0C",
+        "correct_answer": "100°C",
         "incorrect_answers": [
-            "90\u00b0C",
-            "110\u00b0C",
-            "120\u00b0C"
+            "90°C",
+            "110°C",
+            "120°C"
         ],
         "difficulty": "easy"
     },
@@ -230,7 +230,7 @@
         "difficulty": "easy"
     },
     {
-        "question": "What is 5 \u00d7 5?",
+        "question": "What is 5 × 5?",
         "correct_answer": "25",
         "incorrect_answers": [
             "20",
@@ -501,11 +501,11 @@
     },
     {
         "question": "What is the freezing point of water in Celsius?",
-        "correct_answer": "0\u00b0C",
+        "correct_answer": "0°C",
         "incorrect_answers": [
-            "-10\u00b0C",
-            "10\u00b0C",
-            "-5\u00b0C"
+            "-10°C",
+            "10°C",
+            "-5°C"
         ],
         "difficulty": "easy"
     },
@@ -603,7 +603,7 @@
         "difficulty": "easy"
     },
     {
-        "question": "What is 10 \u00d7 10?",
+        "question": "What is 10 × 10?",
         "correct_answer": "100",
         "incorrect_answers": [
             "90",
@@ -784,10 +784,10 @@
     },
     {
         "question": "What is the capital of Brazil?",
-        "correct_answer": "Bras\u00edlia",
+        "correct_answer": "Brasília",
         "incorrect_answers": [
             "Rio de Janeiro",
-            "S\u00e3o Paulo",
+            "São Paulo",
             "Salvador"
         ],
         "difficulty": "easy"
@@ -954,11 +954,11 @@
     },
     {
         "question": "What is the boiling point of water in Fahrenheit?",
-        "correct_answer": "212\u00b0F",
+        "correct_answer": "212°F",
         "incorrect_answers": [
-            "200\u00b0F",
-            "220\u00b0F",
-            "240\u00b0F"
+            "200°F",
+            "220°F",
+            "240°F"
         ],
         "difficulty": "easy"
     },
@@ -1017,7 +1017,7 @@
         "correct_answer": "O",
         "incorrect_answers": [
             "Ox",
-            "O\u2082",
+            "O₂",
             "Oy"
         ],
         "difficulty": "easy"
@@ -1088,7 +1088,7 @@
         "incorrect_answers": [
             "Britney Spears",
             "Lady Gaga",
-            "Beyonc\u00e9"
+            "Beyoncé"
         ],
         "difficulty": "easy"
     },
@@ -1147,11 +1147,11 @@
     },
     {
         "question": "How many degrees are in a circle?",
-        "correct_answer": "360\u00b0",
+        "correct_answer": "360°",
         "incorrect_answers": [
-            "180\u00b0",
-            "270\u00b0",
-            "400\u00b0"
+            "180°",
+            "270°",
+            "400°"
         ],
         "difficulty": "easy"
     },
@@ -1280,8 +1280,8 @@
         "correct_answer": "NaCl",
         "incorrect_answers": [
             "KCl",
-            "MgSO\u2084",
-            "H\u2082SO\u2084"
+            "MgSO₄",
+            "H₂SO₄"
         ],
         "difficulty": "easy"
     },
@@ -1380,7 +1380,7 @@
         "correct_answer": "Pablo Picasso",
         "incorrect_answers": [
             "Claude Monet",
-            "Salvador Dal\u00ed",
+            "Salvador Dalí",
             "Vincent van Gogh"
         ],
         "difficulty": "medium"
@@ -1490,7 +1490,7 @@
         "correct_answer": "Paella",
         "incorrect_answers": [
             "Tapas",
-            "Tortilla Espa\u00f1ola",
+            "Tortilla Española",
             "Gazpacho"
         ],
         "difficulty": "medium"
@@ -1691,7 +1691,7 @@
         "incorrect_answers": [
             "Santiago",
             "Lima",
-            "Bogot\u00e1"
+            "Bogotá"
         ],
         "difficulty": "medium"
     },
@@ -1977,7 +1977,7 @@
     },
     {
         "question": "Who painted The Persistence of Memory?",
-        "correct_answer": "Salvador Dal\u00ed",
+        "correct_answer": "Salvador Dalí",
         "incorrect_answers": [
             "Pablo Picasso",
             "Vincent van Gogh",
@@ -2386,7 +2386,7 @@
         "difficulty": "medium"
     },
     {
-        "question": "What is the name of the world\u2019s smallest mammal?",
+        "question": "What is the name of the world's smallest mammal?",
         "correct_answer": "Bumblebee Bat",
         "incorrect_answers": [
             "Pygmy Shrew",
@@ -2449,7 +2449,7 @@
         "question": "Who is the author of Pride and Prejudice?",
         "correct_answer": "Jane Austen",
         "incorrect_answers": [
-            "Charlotte Bront\u00eb",
+            "Charlotte Brontë",
             "Emily Dickinson",
             "Louisa May Alcott"
         ],
@@ -2557,17 +2557,17 @@
     },
     {
         "question": "What is the chemical formula for ozone?",
-        "correct_answer": "O\u2083",
+        "correct_answer": "O₃",
         "incorrect_answers": [
-            "O\u2082",
-            "O\u2084",
-            "CO\u2083"
+            "O₂",
+            "O₄",
+            "CO₃"
         ],
         "difficulty": "hard"
     },
     {
         "question": "Who discovered X-rays?",
-        "correct_answer": "Wilhelm R\u00f6ntgen",
+        "correct_answer": "Wilhelm Röntgen",
         "incorrect_answers": [
             "Marie Curie",
             "Henri Becquerel",
@@ -2989,8 +2989,8 @@
         "question": "Who wrote Don Quixote?",
         "correct_answer": "Miguel de Cervantes",
         "incorrect_answers": [
-            "Gabriel Garc\u00eda M\u00e1rquez",
-            "Federico Garc\u00eda Lorca",
+            "Gabriel García Márquez",
+            "Federico García Lorca",
             "Jorge Luis Borges"
         ],
         "difficulty": "hard"
