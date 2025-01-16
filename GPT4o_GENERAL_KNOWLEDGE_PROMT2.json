@@ -1,0 +1,3132 @@
+[
+    {
+        "question": "What is the largest planet in our solar system?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Earth",
+            "Mars",
+            "Venus"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which ocean is the largest?",
+        "correct_answer": "Pacific",
+        "incorrect_answers": [
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the capital city of France?",
+        "correct_answer": "Paris",
+        "incorrect_answers": [
+            "Berlin",
+            "Rome",
+            "Madrid"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the primary color of a stop sign?",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+            "Blue",
+            "Green",
+            "Yellow"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 5 + 3?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "7",
+            "6",
+            "9"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which animal is known as \"man's best friend\"?",
+        "correct_answer": "Dog",
+        "incorrect_answers": [
+            "Cat",
+            "Horse",
+            "Rabbit"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the currency used in the United States?",
+        "correct_answer": "Dollar",
+        "incorrect_answers": [
+            "Euro",
+            "Pound",
+            "Yen"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What shape has three sides?",
+        "correct_answer": "Triangle",
+        "incorrect_answers": [
+            "Square",
+            "Circle",
+            "Pentagon"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "correct_answer": "Vatican City",
+        "incorrect_answers": [
+            "Monaco",
+            "Liechtenstein",
+            "San Marino"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "correct_answer": "H2O",
+        "incorrect_answers": [
+            "CO2",
+            "NaCl",
+            "O2"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which sport is known as \"the beautiful game\"?",
+        "correct_answer": "Soccer",
+        "incorrect_answers": [
+            "Basketball",
+            "Tennis",
+            "Rugby"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do bees produce?",
+        "correct_answer": "Honey",
+        "incorrect_answers": [
+            "Wax",
+            "Milk",
+            "Silk"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the national language of Spain?",
+        "correct_answer": "Spanish",
+        "incorrect_answers": [
+            "Italian",
+            "French",
+            "Portuguese"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "correct_answer": "Seven",
+        "incorrect_answers": [
+            "Six",
+            "Eight",
+            "Nine"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the toy cowboy in Toy Story?",
+        "correct_answer": "Woody",
+        "incorrect_answers": [
+            "Buzz",
+            "Rex",
+            "Andy"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which gas do humans need to breathe?",
+        "correct_answer": "Oxygen",
+        "incorrect_answers": [
+            "Hydrogen",
+            "Helium",
+            "Carbon Dioxide"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "correct_answer": "Eight",
+        "incorrect_answers": [
+            "Six",
+            "Ten",
+            "Four"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which fruit is known as the \"king of fruits\"?",
+        "correct_answer": "Mango",
+        "incorrect_answers": [
+            "Apple",
+            "Banana",
+            "Orange"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "correct_answer": "Leonardo da Vinci",
+        "incorrect_answers": [
+            "Michelangelo",
+            "Van Gogh",
+            "Picasso"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which planet is closest to the sun?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+            "Venus",
+            "Earth",
+            "Mars"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the color of the sky on a clear day?",
+        "correct_answer": "Blue",
+        "incorrect_answers": [
+            "Gray",
+            "Yellow",
+            "Green"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which month has 28 or 29 days?",
+        "correct_answer": "February",
+        "incorrect_answers": [
+            "January",
+            "March",
+            "April"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do you call a baby dog?",
+        "correct_answer": "Puppy",
+        "incorrect_answers": [
+            "Kitten",
+            "Cub",
+            "Calf"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main ingredient in bread?",
+        "correct_answer": "Flour",
+        "incorrect_answers": [
+            "Sugar",
+            "Salt",
+            "Butter"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which bird is known for imitating sounds?",
+        "correct_answer": "Parrot",
+        "incorrect_answers": [
+            "Owl",
+            "Pigeon",
+            "Sparrow"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which country is famous for its maple syrup?",
+        "correct_answer": "Canada",
+        "incorrect_answers": [
+            "USA",
+            "Australia",
+            "Germany"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which vegetable is known as the \"staple food\" in many Asian countries?",
+        "correct_answer": "Rice",
+        "incorrect_answers": [
+            "Wheat",
+            "Corn",
+            "Potatoes"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What does the \"E\" in E-mail stand for?",
+        "correct_answer": "Electronic",
+        "incorrect_answers": [
+            "Express",
+            "Energy",
+            "Easy"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which insect is known for building hives?",
+        "correct_answer": "Bees",
+        "incorrect_answers": [
+            "Ants",
+            "Wasps",
+            "Butterflies"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the most spoken language in the world?",
+        "correct_answer": "English",
+        "incorrect_answers": [
+            "Spanish",
+            "Hindi",
+            "Mandarin"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which is the tallest animal in the world?",
+        "correct_answer": "Giraffe",
+        "incorrect_answers": [
+            "Elephant",
+            "Lion",
+            "Kangaroo"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which sweet food is made by bees using nectar?",
+        "correct_answer": "Honey",
+        "incorrect_answers": [
+            "Chocolate",
+            "Sugar",
+            "Syrup"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "correct_answer": "Seven",
+        "incorrect_answers": [
+            "Six",
+            "Eight",
+            "Nine"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which animal is known for its long trunk?",
+        "correct_answer": "Elephant",
+        "incorrect_answers": [
+            "Rhinoceros",
+            "Giraffe",
+            "Camel"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which vegetable is orange and is known for being good for eyesight?",
+        "correct_answer": "Carrot",
+        "incorrect_answers": [
+            "Tomato",
+            "Cucumber",
+            "Spinach"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main color of the Coca-Cola logo?",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+            "Blue",
+            "Green",
+            "Black"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which animal is known to have a pouch for its babies?",
+        "correct_answer": "Kangaroo",
+        "incorrect_answers": [
+            "Elephant",
+            "Tiger",
+            "Penguin"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which is the only planet known to support life?",
+        "correct_answer": "Earth",
+        "incorrect_answers": [
+            "Mars",
+            "Jupiter",
+            "Venus"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the opposite of \"hot\"?",
+        "correct_answer": "Cold",
+        "incorrect_answers": [
+            "Warm",
+            "Lukewarm",
+            "Chill"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the capital city of England?",
+        "correct_answer": "London",
+        "incorrect_answers": [
+            "Manchester",
+            "Liverpool",
+            "Birmingham"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which metal is used to make coins?",
+        "correct_answer": "Nickel",
+        "incorrect_answers": [
+            "Gold",
+            "Silver",
+            "Platinum"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the shape of a full moon?",
+        "correct_answer": "Circle",
+        "incorrect_answers": [
+            "Square",
+            "Triangle",
+            "Oval"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which fruit is yellow and curved?",
+        "correct_answer": "Banana",
+        "incorrect_answers": [
+            "Lemon",
+            "Pineapple",
+            "Papaya"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many days are in a week?",
+        "correct_answer": "Seven",
+        "incorrect_answers": [
+            "Five",
+            "Eight",
+            "Six"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which instrument has keys and strings and is often played in classical music?",
+        "correct_answer": "Piano",
+        "incorrect_answers": [
+            "Guitar",
+            "Flute",
+            "Violin"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do you call water in its solid state?",
+        "correct_answer": "Ice",
+        "incorrect_answers": [
+            "Vapor",
+            "Steam",
+            "Snow"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the fairy in Peter Pan?",
+        "correct_answer": "Tinker Bell",
+        "incorrect_answers": [
+            "Cinderella",
+            "Snow White",
+            "Belle"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which fruit is known for its seeds on the outside?",
+        "correct_answer": "Strawberry",
+        "incorrect_answers": [
+            "Apple",
+            "Peach",
+            "Grapes"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many fingers do humans usually have?",
+        "correct_answer": "Ten",
+        "incorrect_answers": [
+            "Eight",
+            "Twelve",
+            "Six"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do cows drink?",
+        "correct_answer": "Water",
+        "incorrect_answers": [
+            "Milk",
+            "Juice",
+            "Soda"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which animal is known for its black and white stripes?",
+        "correct_answer": "Zebra",
+        "incorrect_answers": [
+            "Tiger",
+            "Panda",
+            "Skunk"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What color are bananas when they are ripe?",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+            "Green",
+            "Brown",
+            "Red"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of Mickey Mouse's dog?",
+        "correct_answer": "Pluto",
+        "incorrect_answers": [
+            "Goofy",
+            "Max",
+            "Donald"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which vegetable is known for making people cry when chopped?",
+        "correct_answer": "Onion",
+        "incorrect_answers": [
+            "Garlic",
+            "Potato",
+            "Carrot"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the capital city of Italy?",
+        "correct_answer": "Rome",
+        "incorrect_answers": [
+            "Venice",
+            "Milan",
+            "Florence"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the superhero known for his shield with a star?",
+        "correct_answer": "Captain America",
+        "incorrect_answers": [
+            "Superman",
+            "Iron Man",
+            "Batman"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 10 - 6?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "3",
+            "5",
+            "6"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which holiday is celebrated on December 25th?",
+        "correct_answer": "Christmas",
+        "incorrect_answers": [
+            "Thanksgiving",
+            "Halloween",
+            "Easter"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "correct_answer": "Mount Everest",
+        "incorrect_answers": [
+            "K2",
+            "Kilimanjaro",
+            "Denali"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main ingredient in sushi?",
+        "correct_answer": "Rice",
+        "incorrect_answers": [
+            "Bread",
+            "Pasta",
+            "Potato"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which bird is often associated with delivering babies in fairy tales?",
+        "correct_answer": "Stork",
+        "incorrect_answers": [
+            "Owl",
+            "Eagle",
+            "Dove"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the term for a group of lions?",
+        "correct_answer": "Pride",
+        "incorrect_answers": [
+            "Pack",
+            "Herd",
+            "Flock"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What does a caterpillar turn into?",
+        "correct_answer": "Butterfly",
+        "incorrect_answers": [
+            "Beetle",
+            "Grasshopper",
+            "Worm"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the capital city of Germany?",
+        "correct_answer": "Berlin",
+        "incorrect_answers": [
+            "Munich",
+            "Frankfurt",
+            "Hamburg"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which food is made from soybeans?",
+        "correct_answer": "Tofu",
+        "incorrect_answers": [
+            "Cheese",
+            "Yogurt",
+            "Butter"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of Harry Potter’s pet owl?",
+        "correct_answer": "Hedwig",
+        "incorrect_answers": [
+            "Crookshanks",
+            "Buckbeak",
+            "Fawkes"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which color is formed by mixing blue and yellow?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Orange",
+            "Purple",
+            "Brown"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "correct_answer": "Tokyo",
+        "incorrect_answers": [
+            "Kyoto",
+            "Osaka",
+            "Hiroshima"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which metal is attracted to magnets?",
+        "correct_answer": "Iron",
+        "incorrect_answers": [
+            "Copper",
+            "Aluminum",
+            "Gold"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do you call a female cow?",
+        "correct_answer": "Cow",
+        "incorrect_answers": [
+            "Bull",
+            "Ox",
+            "Heifer"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which planet is known as the \"Red Planet\"?",
+        "correct_answer": "Mars",
+        "incorrect_answers": [
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which animal is famous for carrying its house on its back?",
+        "correct_answer": "Turtle",
+        "incorrect_answers": [
+            "Snail",
+            "Crab",
+            "Armadillo"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the largest land animal?",
+        "correct_answer": "Elephant",
+        "incorrect_answers": [
+            "Rhino",
+            "Hippo",
+            "Buffalo"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which country is famous for pizza?",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+            "France",
+            "Spain",
+            "Greece"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 15 divided by 3?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "4",
+            "6",
+            "7"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which sport is played with a bat, ball, and wickets?",
+        "correct_answer": "Cricket",
+        "incorrect_answers": [
+            "Baseball",
+            "Tennis",
+            "Rugby"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which bird is the symbol of peace?",
+        "correct_answer": "Dove",
+        "incorrect_answers": [
+            "Eagle",
+            "Sparrow",
+            "Swan"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the capital city of the United Kingdom?",
+        "correct_answer": "London",
+        "incorrect_answers": [
+            "Edinburgh",
+            "Dublin",
+            "Cardiff"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the closest star to Earth?",
+        "correct_answer": "Sun",
+        "incorrect_answers": [
+            "Sirius",
+            "Polaris",
+            "Vega"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the Disney princess who loses her glass slipper?",
+        "correct_answer": "Cinderella",
+        "incorrect_answers": [
+            "Snow White",
+            "Ariel",
+            "Belle"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which animal lives in a den and is known for its bushy tail?",
+        "correct_answer": "Fox",
+        "incorrect_answers": [
+            "Wolf",
+            "Squirrel",
+            "Dog"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many months are in a year?",
+        "correct_answer": "Twelve",
+        "incorrect_answers": [
+            "Ten",
+            "Eleven",
+            "Thirteen"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which fruit is known for its green outer skin and pink inside?",
+        "correct_answer": "Watermelon",
+        "incorrect_answers": [
+            "Apple",
+            "Kiwi",
+            "Grapefruit"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the river that runs through Egypt?",
+        "correct_answer": "Nile",
+        "incorrect_answers": [
+            "Amazon",
+            "Ganges",
+            "Yangtze"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which object is used to tell the time?",
+        "correct_answer": "Clock",
+        "incorrect_answers": [
+            "Compass",
+            "Calendar",
+            "Scale"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "correct_answer": "Blue Whale",
+        "incorrect_answers": [
+            "Elephant",
+            "Orca",
+            "Hippopotamus"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What color is a sunflower?",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+            "Red",
+            "White",
+            "Pink"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the opposite of day?",
+        "correct_answer": "Night",
+        "incorrect_answers": [
+            "Evening",
+            "Morning",
+            "Dawn"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which continent is Australia located on?",
+        "correct_answer": "Australia",
+        "incorrect_answers": [
+            "Africa",
+            "Asia",
+            "Europe"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main ingredient in an omelette?",
+        "correct_answer": "Eggs",
+        "incorrect_answers": [
+            "Milk",
+            "Flour",
+            "Cheese"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the fairy tale character who leaves a trail of breadcrumbs?",
+        "correct_answer": "Hansel and Gretel",
+        "incorrect_answers": [
+            "Little Red Riding Hood",
+            "Cinderella",
+            "Sleeping Beauty"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do you call a young cat?",
+        "correct_answer": "Kitten",
+        "incorrect_answers": [
+            "Cub",
+            "Calf",
+            "Chick"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which season comes after summer?",
+        "correct_answer": "Autumn",
+        "incorrect_answers": [
+            "Winter",
+            "Spring",
+            "Rainy"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which animal is known for spinning webs?",
+        "correct_answer": "Spider",
+        "incorrect_answers": [
+            "Ant",
+            "Bee",
+            "Fly"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 20 + 10?",
+        "correct_answer": "30",
+        "incorrect_answers": [
+            "25",
+            "35",
+            "40"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the pirate in Peter Pan?",
+        "correct_answer": "Captain Hook",
+        "incorrect_answers": [
+            "Blackbeard",
+            "Jack Sparrow",
+            "Long John Silver"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which fruit shares its name with a color?",
+        "correct_answer": "Orange",
+        "incorrect_answers": [
+            "Apple",
+            "Grape",
+            "Lemon"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which country is famous for the Eiffel Tower?",
+        "correct_answer": "France",
+        "incorrect_answers": [
+            "Germany",
+            "Italy",
+            "Spain"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do you call a person who flies an airplane?",
+        "correct_answer": "Pilot",
+        "incorrect_answers": [
+            "Captain",
+            "Driver",
+            "Navigator"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "correct_answer": "Avocado",
+        "incorrect_answers": [
+            "Tomato",
+            "Cucumber",
+            "Lettuce"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which insect is known for its colorful wings?",
+        "correct_answer": "Butterfly",
+        "incorrect_answers": [
+            "Bee",
+            "Fly",
+            "Moth"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the snowman in Disney's Frozen?",
+        "correct_answer": "Olaf",
+        "incorrect_answers": [
+            "Sven",
+            "Kristoff",
+            "Marshmallow"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the outer layer of the Earth?",
+        "correct_answer": "Crust",
+        "incorrect_answers": [
+            "Core",
+            "Mantle",
+            "Surface"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which fruit is known as the \"forbidden fruit\" in the Bible?",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+            "Orange",
+            "Fig",
+            "Banana"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do plants absorb to make food?",
+        "correct_answer": "Sunlight",
+        "incorrect_answers": [
+            "Water",
+            "Soil",
+            "Oxygen"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which holiday is associated with pumpkins and costumes?",
+        "correct_answer": "Halloween",
+        "incorrect_answers": [
+            "Thanksgiving",
+            "Christmas",
+            "Easter"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the capital city of the United States?",
+        "correct_answer": "Washington, D.C.",
+        "incorrect_answers": [
+            "New York",
+            "Los Angeles",
+            "Chicago"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What type of fish is Nemo in Finding Nemo?",
+        "correct_answer": "Clownfish",
+        "incorrect_answers": [
+            "Goldfish",
+            "Catfish",
+            "Starfish"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which animal is known for having a long neck?",
+        "correct_answer": "Giraffe",
+        "incorrect_answers": [
+            "Elephant",
+            "Camel",
+            "Ostrich"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do you call frozen rain?",
+        "correct_answer": "Hail",
+        "incorrect_answers": [
+            "Snow",
+            "Frost",
+            "Ice"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which vegetable is used to make pickles?",
+        "correct_answer": "Cucumber",
+        "incorrect_answers": [
+            "Carrot",
+            "Zucchini",
+            "Celery"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which is the fastest land animal?",
+        "correct_answer": "Cheetah",
+        "incorrect_answers": [
+            "Lion",
+            "Horse",
+            "Tiger"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What color is the inside of an avocado?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Yellow",
+            "White",
+            "Orange"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which musical instrument has black and white keys?",
+        "correct_answer": "Piano",
+        "incorrect_answers": [
+            "Violin",
+            "Flute",
+            "Guitar"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which holiday is celebrated with fireworks in the USA on July 4th?",
+        "correct_answer": "Independence Day",
+        "incorrect_answers": [
+            "Memorial Day",
+            "Labor Day",
+            "Veterans Day"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do pandas primarily eat?",
+        "correct_answer": "Bamboo",
+        "incorrect_answers": [
+            "Grass",
+            "Leaves",
+            "Fruits"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the planet where we live?",
+        "correct_answer": "Earth",
+        "incorrect_answers": [
+            "Mars",
+            "Venus",
+            "Jupiter"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do you call a baby horse?",
+        "correct_answer": "Foal",
+        "incorrect_answers": [
+            "Colt",
+            "Pony",
+            "Calf"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the closest ocean to India?",
+        "correct_answer": "Indian Ocean",
+        "incorrect_answers": [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Arctic Ocean"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the fairy tale character who lived in a shoe?",
+        "correct_answer": "The Old Woman",
+        "incorrect_answers": [
+            "Cinderella",
+            "Goldilocks",
+            "Thumbelina"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which vegetable is known for its purple color and crown-like top?",
+        "correct_answer": "Eggplant",
+        "incorrect_answers": [
+            "Beetroot",
+            "Red Cabbage",
+            "Turnip"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main ingredient in tomato soup?",
+        "correct_answer": "Tomatoes",
+        "incorrect_answers": [
+            "Carrots",
+            "Potatoes",
+            "Onions"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which animal is the symbol of wisdom in many cultures?",
+        "correct_answer": "Owl",
+        "incorrect_answers": [
+            "Fox",
+            "Eagle",
+            "Cat"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What color are flamingos?",
+        "correct_answer": "Pink",
+        "incorrect_answers": [
+            "White",
+            "Orange",
+            "Red"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the organ we use to see?",
+        "correct_answer": "Eye",
+        "incorrect_answers": [
+            "Ear",
+            "Nose",
+            "Tongue"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which is the coldest season of the year?",
+        "correct_answer": "Winter",
+        "incorrect_answers": [
+            "Autumn",
+            "Spring",
+            "Summer"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the primary ingredient in french fries?",
+        "correct_answer": "Potatoes",
+        "incorrect_answers": [
+            "Corn",
+            "Rice",
+            "Bread"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which animal is famous for its hump?",
+        "correct_answer": "Camel",
+        "incorrect_answers": [
+            "Elephant",
+            "Giraffe",
+            "Llama"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which country is home to the Great Barrier Reef?",
+        "correct_answer": "Australia",
+        "incorrect_answers": [
+            "New Zealand",
+            "Canada",
+            "South Africa"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "correct_answer": "William Shakespeare",
+        "incorrect_answers": [
+            "Charles Dickens",
+            "Mark Twain",
+            "J.K. Rowling"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the capital city of Canada?",
+        "correct_answer": "Ottawa",
+        "incorrect_answers": [
+            "Toronto",
+            "Vancouver",
+            "Montreal"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which organ in the human body is responsible for pumping blood?",
+        "correct_answer": "Heart",
+        "incorrect_answers": [
+            "Liver",
+            "Kidney",
+            "Lungs"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "correct_answer": "Sahara Desert",
+        "incorrect_answers": [
+            "Gobi Desert",
+            "Kalahari Desert",
+            "Arabian Desert"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the primary gas in the Earth's atmosphere?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "correct_answer": "Diamond",
+        "incorrect_answers": [
+            "Gold",
+            "Granite",
+            "Quartz"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the smallest unit of life in biology?",
+        "correct_answer": "Cell",
+        "incorrect_answers": [
+            "Molecule",
+            "Atom",
+            "Tissue"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+            "Leonardo da Vinci",
+            "Raphael",
+            "Donatello"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "correct_answer": "100°C",
+        "incorrect_answers": [
+            "90°C",
+            "80°C",
+            "110°C"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "correct_answer": "Nile",
+        "incorrect_answers": [
+            "Amazon",
+            "Yangtze",
+            "Mississippi"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet is known for its rings?",
+        "correct_answer": "Saturn",
+        "incorrect_answers": [
+            "Jupiter",
+            "Uranus",
+            "Neptune"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "correct_answer": "Alexander Graham Bell",
+        "incorrect_answers": [
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Guglielmo Marconi"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "correct_answer": "Au",
+        "incorrect_answers": [
+            "Ag",
+            "Fe",
+            "Hg"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest bone in the human body?",
+        "correct_answer": "Femur",
+        "incorrect_answers": [
+            "Tibia",
+            "Skull",
+            "Spine"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+            "China",
+            "South Korea",
+            "Thailand"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which element is found in all organic compounds?",
+        "correct_answer": "Carbon",
+        "incorrect_answers": [
+            "Hydrogen",
+            "Oxygen",
+            "Nitrogen"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the tallest waterfall in the world?",
+        "correct_answer": "Angel Falls",
+        "incorrect_answers": [
+            "Niagara Falls",
+            "Victoria Falls",
+            "Iguazu Falls"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the most populous country in the world?",
+        "correct_answer": "China",
+        "incorrect_answers": [
+            "India",
+            "USA",
+            "Indonesia"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the square root of 144?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "14",
+            "10",
+            "11"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the smallest continent by land area?",
+        "correct_answer": "Australia",
+        "incorrect_answers": [
+            "Europe",
+            "Antarctica",
+            "South America"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which animal is the largest carnivore on land?",
+        "correct_answer": "Polar Bear",
+        "incorrect_answers": [
+            "Lion",
+            "Tiger",
+            "Grizzly Bear"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which part of the plant conducts photosynthesis?",
+        "correct_answer": "Leaf",
+        "incorrect_answers": [
+            "Stem",
+            "Root",
+            "Flower"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who is the author of The Hobbit?",
+        "correct_answer": "J.R.R. Tolkien",
+        "incorrect_answers": [
+            "C.S. Lewis",
+            "J.K. Rowling",
+            "George R.R. Martin"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the main ingredient in hummus?",
+        "correct_answer": "Chickpeas",
+        "incorrect_answers": [
+            "Lentils",
+            "Potatoes",
+            "Beans"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which country has the most volcanoes?",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+            "Japan",
+            "USA",
+            "Iceland"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "How many teeth does an adult human have?",
+        "correct_answer": "32",
+        "incorrect_answers": [
+            "30",
+            "28",
+            "34"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "correct_answer": "Pacific Ocean",
+        "incorrect_answers": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the process by which plants make food?",
+        "correct_answer": "Photosynthesis",
+        "incorrect_answers": [
+            "Respiration",
+            "Transpiration",
+            "Germination"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "correct_answer": "NaCl",
+        "incorrect_answers": [
+            "H2O",
+            "CO2",
+            "KCl"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which Greek god is known as the god of the sea?",
+        "correct_answer": "Poseidon",
+        "incorrect_answers": [
+            "Zeus",
+            "Hades",
+            "Apollo"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet is often called Earth's \"twin\" because of its size and proximity?",
+        "correct_answer": "Venus",
+        "incorrect_answers": [
+            "Mars",
+            "Mercury",
+            "Jupiter"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the capital city of Egypt?",
+        "correct_answer": "Cairo",
+        "incorrect_answers": [
+            "Alexandria",
+            "Luxor",
+            "Aswan"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which instrument is used to measure temperature?",
+        "correct_answer": "Thermometer",
+        "incorrect_answers": [
+            "Barometer",
+            "Hygrometer",
+            "Calorimeter"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which continent is the Amazon Rainforest located on?",
+        "correct_answer": "South America",
+        "incorrect_answers": [
+            "Africa",
+            "Asia",
+            "Australia"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the study of the past through material remains called?",
+        "correct_answer": "Archaeology",
+        "incorrect_answers": [
+            "Anthropology",
+            "Paleontology",
+            "Geology"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "correct_answer": "Alexander Fleming",
+        "incorrect_answers": [
+            "Louis Pasteur",
+            "Marie Curie",
+            "Joseph Lister"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the second largest planet in the solar system?",
+        "correct_answer": "Saturn",
+        "incorrect_answers": [
+            "Jupiter",
+            "Neptune",
+            "Uranus"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What type of animal is a Komodo dragon?",
+        "correct_answer": "Lizard",
+        "incorrect_answers": [
+            "Snake",
+            "Crocodile",
+            "Turtle"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+            "Lead",
+            "Aluminum",
+            "Zinc"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which continent has the most countries?",
+        "correct_answer": "Africa",
+        "incorrect_answers": [
+            "Asia",
+            "Europe",
+            "South America"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the term for animals that eat both plants and meat?",
+        "correct_answer": "Omnivores",
+        "incorrect_answers": [
+            "Herbivores",
+            "Carnivores",
+            "Insectivores"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the national language of Brazil?",
+        "correct_answer": "Portuguese",
+        "incorrect_answers": [
+            "Spanish",
+            "French",
+            "Italian"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which star is the center of our solar system?",
+        "correct_answer": "Sun",
+        "incorrect_answers": [
+            "Polaris",
+            "Sirius",
+            "Vega"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "correct_answer": "Greenland",
+        "incorrect_answers": [
+            "Iceland",
+            "Madagascar",
+            "Australia"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which ancient civilization built the pyramids?",
+        "correct_answer": "Egyptians",
+        "incorrect_answers": [
+            "Mayans",
+            "Aztecs",
+            "Incas"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the smallest planet in the solar system?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+            "Pluto",
+            "Venus",
+            "Mars"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the study of weather called?",
+        "correct_answer": "Meteorology",
+        "incorrect_answers": [
+            "Geology",
+            "Oceanography",
+            "Astronomy"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first president of the United States?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "Abraham Lincoln",
+            "Thomas Jefferson",
+            "John Adams"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the main gas found in the air we exhale?",
+        "correct_answer": "Carbon Dioxide",
+        "incorrect_answers": [
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest island in the Mediterranean Sea?",
+        "correct_answer": "Sicily",
+        "incorrect_answers": [
+            "Cyprus",
+            "Crete",
+            "Sardinia"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which is the only mammal capable of true flight?",
+        "correct_answer": "Bat",
+        "incorrect_answers": [
+            "Squirrel",
+            "Bird",
+            "Flying Fox"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the capital city of South Korea?",
+        "correct_answer": "Seoul",
+        "incorrect_answers": [
+            "Busan",
+            "Tokyo",
+            "Beijing"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Saturn",
+            "Neptune",
+            "Mars"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the term for molten rock before it erupts from a volcano?",
+        "correct_answer": "Magma",
+        "incorrect_answers": [
+            "Lava",
+            "Ash",
+            "Mantle"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which instrument is used to measure air pressure?",
+        "correct_answer": "Barometer",
+        "incorrect_answers": [
+            "Thermometer",
+            "Hygrometer",
+            "Altimeter"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the most abundant metal in the Earth’s crust?",
+        "correct_answer": "Aluminum",
+        "incorrect_answers": [
+            "Iron",
+            "Copper",
+            "Zinc"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the capital city of Argentina?",
+        "correct_answer": "Buenos Aires",
+        "incorrect_answers": [
+            "Rio de Janeiro",
+            "Santiago",
+            "Lima"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the term for a word or phrase that reads the same backward as forward?",
+        "correct_answer": "Palindrome",
+        "incorrect_answers": [
+            "Anagram",
+            "Synonym",
+            "Homophone"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first man to set foot on the moon?",
+        "correct_answer": "Neil Armstrong",
+        "incorrect_answers": [
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Michael Collins"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the process by which a liquid turns into a gas?",
+        "correct_answer": "Evaporation",
+        "incorrect_answers": [
+            "Condensation",
+            "Freezing",
+            "Sublimation"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the longest mountain range on land?",
+        "correct_answer": "Andes",
+        "incorrect_answers": [
+            "Rockies",
+            "Himalayas",
+            "Alps"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which country gifted the Statue of Liberty to the USA?",
+        "correct_answer": "France",
+        "incorrect_answers": [
+            "England",
+            "Spain",
+            "Italy"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the study of plants called?",
+        "correct_answer": "Botany",
+        "incorrect_answers": [
+            "Zoology",
+            "Geology",
+            "Ecology"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What type of animal is a barracuda?",
+        "correct_answer": "Fish",
+        "incorrect_answers": [
+            "Bird",
+            "Reptile",
+            "Mammal"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which vitamin is known as the \"sunshine vitamin\"?",
+        "correct_answer": "Vitamin D",
+        "incorrect_answers": [
+            "Vitamin C",
+            "Vitamin A",
+            "Vitamin B"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which bird is known for its ability to mimic human speech?",
+        "correct_answer": "Parrot",
+        "incorrect_answers": [
+            "Crow",
+            "Owl",
+            "Canary"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the process by which plants release oxygen?",
+        "correct_answer": "Photosynthesis",
+        "incorrect_answers": [
+            "Respiration",
+            "Germination",
+            "Transpiration"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which is the smallest bird in the world?",
+        "correct_answer": "Bee Hummingbird",
+        "incorrect_answers": [
+            "Sparrow",
+            "Finch",
+            "Robin"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the main ingredient in traditional Japanese miso soup?",
+        "correct_answer": "Miso paste",
+        "incorrect_answers": [
+            "Soy sauce",
+            "Tofu",
+            "Seaweed"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the layer of gases surrounding the Earth?",
+        "correct_answer": "Atmosphere",
+        "incorrect_answers": [
+            "Lithosphere",
+            "Hydrosphere",
+            "Biosphere"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who wrote The Adventures of Tom Sawyer?",
+        "correct_answer": "Mark Twain",
+        "incorrect_answers": [
+            "Charles Dickens",
+            "Ernest Hemingway",
+            "J.D. Salinger"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the term for an animal that eats only plants?",
+        "correct_answer": "Herbivore",
+        "incorrect_answers": [
+            "Carnivore",
+            "Omnivore",
+            "Insectivore"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the freezing point of water in Fahrenheit?",
+        "correct_answer": "32°F",
+        "incorrect_answers": [
+            "0°F",
+            "40°F",
+            "100°F"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which country has the most pyramids in the world?",
+        "correct_answer": "Sudan",
+        "incorrect_answers": [
+            "Egypt",
+            "Mexico",
+            "China"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which ocean is the Bermuda Triangle located in?",
+        "correct_answer": "Atlantic",
+        "incorrect_answers": [
+            "Pacific",
+            "Indian",
+            "Arctic"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which organ in the human body filters blood?",
+        "correct_answer": "Kidneys",
+        "incorrect_answers": [
+            "Liver",
+            "Heart",
+            "Lungs"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet has the largest volcano in the solar system?",
+        "correct_answer": "Mars",
+        "incorrect_answers": [
+            "Earth",
+            "Venus",
+            "Jupiter"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest internal organ in the human body?",
+        "correct_answer": "Liver",
+        "incorrect_answers": [
+            "Heart",
+            "Stomach",
+            "Intestines"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the capital city of Turkey?",
+        "correct_answer": "Ankara",
+        "incorrect_answers": [
+            "Istanbul",
+            "Izmir",
+            "Antalya"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "correct_answer": "Fe",
+        "incorrect_answers": [
+            "Ir",
+            "I",
+            "In"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which continent is the Sahara Desert located on?",
+        "correct_answer": "Africa",
+        "incorrect_answers": [
+            "Asia",
+            "South America",
+            "Australia"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the tallest building in the world?",
+        "correct_answer": "Burj Khalifa",
+        "incorrect_answers": [
+            "Shanghai Tower",
+            "Empire State Building",
+            "Petronas Towers"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which is the longest bone in the human body?",
+        "correct_answer": "Femur",
+        "incorrect_answers": [
+            "Tibia",
+            "Humerus",
+            "Radius"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which is the largest freshwater lake in the world?",
+        "correct_answer": "Lake Superior",
+        "incorrect_answers": [
+            "Lake Victoria",
+            "Lake Baikal",
+            "Lake Michigan"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which animal can sleep standing up?",
+        "correct_answer": "Horse",
+        "incorrect_answers": [
+            "Cat",
+            "Dog",
+            "Lion"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet is the densest in the solar system?",
+        "correct_answer": "Earth",
+        "incorrect_answers": [
+            "Jupiter",
+            "Saturn",
+            "Venus"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the term for the outer covering of a seed?",
+        "correct_answer": "Seed coat",
+        "incorrect_answers": [
+            "Shell",
+            "Pod",
+            "Husk"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who is the author of 1984?",
+        "correct_answer": "George Orwell",
+        "incorrect_answers": [
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "Arthur C. Clarke"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What type of rock is formed from molten lava?",
+        "correct_answer": "Igneous",
+        "incorrect_answers": [
+            "Sedimentary",
+            "Metamorphic",
+            "Fossiliferous"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the longest river in South America?",
+        "correct_answer": "Amazon River",
+        "incorrect_answers": [
+            "Orinoco River",
+            "Parana River",
+            "Rio Negro"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which Greek goddess is known as the goddess of wisdom?",
+        "correct_answer": "Athena",
+        "incorrect_answers": [
+            "Hera",
+            "Artemis",
+            "Aphrodite"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the national flower of Japan?",
+        "correct_answer": "Cherry Blossom",
+        "incorrect_answers": [
+            "Lotus",
+            "Rose",
+            "Tulip"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which gas is known as laughing gas?",
+        "correct_answer": "Nitrous Oxide",
+        "incorrect_answers": [
+            "Carbon Dioxide",
+            "Helium",
+            "Oxygen"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the term for a baby kangaroo?",
+        "correct_answer": "Joey",
+        "incorrect_answers": [
+            "Calf",
+            "Pup",
+            "Cub"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who discovered gravity?",
+        "correct_answer": "Isaac Newton",
+        "incorrect_answers": [
+            "Galileo Galilei",
+            "Albert Einstein",
+            "Johannes Kepler"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the largest coral reef system in the world?",
+        "correct_answer": "Great Barrier Reef",
+        "incorrect_answers": [
+            "Red Sea Coral Reef",
+            "Belize Barrier Reef",
+            "Maldives Reef"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the capital city of Thailand?",
+        "correct_answer": "Bangkok",
+        "incorrect_answers": [
+            "Phuket",
+            "Chiang Mai",
+            "Pattaya"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which desert is the largest cold desert in the world?",
+        "correct_answer": "Antarctica",
+        "incorrect_answers": [
+            "Gobi Desert",
+            "Arctic Desert",
+            "Patagonian Desert"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which metal is primarily used in electrical wiring?",
+        "correct_answer": "Copper",
+        "incorrect_answers": [
+            "Aluminum",
+            "Silver",
+            "Iron"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the chemical formula for carbon dioxide?",
+        "correct_answer": "CO₂",
+        "incorrect_answers": [
+            "CO",
+            "CH₄",
+            "H₂O"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Saturn",
+            "Neptune",
+            "Uranus"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which country is famous for the Eiffel Tower?",
+        "correct_answer": "France",
+        "incorrect_answers": [
+            "Italy",
+            "Germany",
+            "Spain"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which blood type is known as the universal donor?",
+        "correct_answer": "O negative",
+        "incorrect_answers": [
+            "A positive",
+            "AB positive",
+            "B negative"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the primary ingredient in traditional Indian curry?",
+        "correct_answer": "Spices",
+        "incorrect_answers": [
+            "Butter",
+            "Yogurt",
+            "Cream"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which instrument is used to measure earthquakes?",
+        "correct_answer": "Seismometer",
+        "incorrect_answers": [
+            "Barometer",
+            "Thermometer",
+            "Hygrometer"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the capital city of Brazil?",
+        "correct_answer": "Brasília",
+        "incorrect_answers": [
+            "Rio de Janeiro",
+            "São Paulo",
+            "Salvador"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which Greek god is known as the god of war?",
+        "correct_answer": "Ares",
+        "incorrect_answers": [
+            "Zeus",
+            "Apollo",
+            "Hermes"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the chemical symbol for sodium?",
+        "correct_answer": "Na",
+        "incorrect_answers": [
+            "S",
+            "N",
+            "So"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the smallest country in the world by land area?",
+        "correct_answer": "Vatican City",
+        "incorrect_answers": [
+            "Monaco",
+            "Liechtenstein",
+            "San Marino"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which part of the human body contains the smallest bones?",
+        "correct_answer": "Ear",
+        "incorrect_answers": [
+            "Fingers",
+            "Nose",
+            "Spine"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which U.S. state is known as the \"Sunshine State\"?",
+        "correct_answer": "Florida",
+        "incorrect_answers": [
+            "California",
+            "Arizona",
+            "Texas"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the process by which plants lose water through their leaves?",
+        "correct_answer": "Transpiration",
+        "incorrect_answers": [
+            "Respiration",
+            "Photosynthesis",
+            "Absorption"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the first female prime minister of the United Kingdom?",
+        "correct_answer": "Margaret Thatcher",
+        "incorrect_answers": [
+            "Theresa May",
+            "Angela Merkel",
+            "Indira Gandhi"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the hardest mineral on the Mohs scale?",
+        "correct_answer": "Diamond",
+        "incorrect_answers": [
+            "Quartz",
+            "Topaz",
+            "Corundum"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the capital city of Russia?",
+        "correct_answer": "Moscow",
+        "incorrect_answers": [
+            "St. Petersburg",
+            "Vladivostok",
+            "Kazan"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which organ is responsible for detoxifying the blood?",
+        "correct_answer": "Liver",
+        "incorrect_answers": [
+            "Kidney",
+            "Heart",
+            "Pancreas"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which mountain range separates Europe and Asia?",
+        "correct_answer": "Ural Mountains",
+        "incorrect_answers": [
+            "Alps",
+            "Himalayas",
+            "Andes"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which layer of the Earth's atmosphere contains the ozone layer?",
+        "correct_answer": "Stratosphere",
+        "incorrect_answers": [
+            "Troposphere",
+            "Mesosphere",
+            "Thermosphere"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the most widely spoken language in the world?",
+        "correct_answer": "English",
+        "incorrect_answers": [
+            "Spanish",
+            "Mandarin",
+            "Hindi"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which composer wrote the Fifth Symphony?",
+        "correct_answer": "Ludwig van Beethoven",
+        "incorrect_answers": [
+            "Mozart",
+            "Bach",
+            "Chopin"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which metal is extracted from bauxite ore?",
+        "correct_answer": "Aluminum",
+        "incorrect_answers": [
+            "Iron",
+            "Copper",
+            "Zinc"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which continent is the Gobi Desert located on?",
+        "correct_answer": "Asia",
+        "incorrect_answers": [
+            "Africa",
+            "Australia",
+            "South America"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the scale used to measure the spiciness of chili peppers?",
+        "correct_answer": "Scoville Scale",
+        "incorrect_answers": [
+            "Richter Scale",
+            "Beaufort Scale",
+            "Kelvin Scale"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the first emperor of Rome?",
+        "correct_answer": "Augustus",
+        "incorrect_answers": [
+            "Julius Caesar",
+            "Nero",
+            "Caligula"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for animals that can survive both in water and on land?",
+        "correct_answer": "Amphibians",
+        "incorrect_answers": [
+            "Reptiles",
+            "Mammals",
+            "Insects"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the longest highway in the world?",
+        "correct_answer": "Pan-American Highway",
+        "incorrect_answers": [
+            "Trans-Siberian Highway",
+            "Highway 1 (Australia)",
+            "Route 66"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who is the author of Don Quixote?",
+        "correct_answer": "Miguel de Cervantes",
+        "incorrect_answers": [
+            "Gabriel García Márquez",
+            "Victor Hugo",
+            "Franz Kafka"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the smallest unit of matter?",
+        "correct_answer": "Atom",
+        "incorrect_answers": [
+            "Molecule",
+            "Quark",
+            "Electron"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the national flower of Mexico?",
+        "correct_answer": "Dahlia",
+        "incorrect_answers": [
+            "Rose",
+            "Marigold",
+            "Sunflower"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which country has won the most FIFA World Cup titles?",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+            "Germany",
+            "Italy",
+            "Argentina"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the rarest blood type?",
+        "correct_answer": "AB negative",
+        "incorrect_answers": [
+            "O positive",
+            "B negative",
+            "A negative"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which is the oldest university in the world?",
+        "correct_answer": "University of Al Quaraouiyine",
+        "incorrect_answers": [
+            "University of Oxford",
+            "University of Bologna",
+            "Harvard University"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the chemical formula for sulfuric acid?",
+        "correct_answer": "H₂SO₄",
+        "incorrect_answers": [
+            "HNO₃",
+            "HCl",
+            "H₂CO₃"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the capital city of Bhutan?",
+        "correct_answer": "Thimphu",
+        "incorrect_answers": [
+            "Kathmandu",
+            "Colombo",
+            "Dhaka"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the deep-sea trench off the coast of Japan?",
+        "correct_answer": "Japan Trench",
+        "incorrect_answers": [
+            "Mariana Trench",
+            "Tonga Trench",
+            "Aleutian Trench"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which planet rotates on its side relative to its orbit?",
+        "correct_answer": "Uranus",
+        "incorrect_answers": [
+            "Neptune",
+            "Saturn",
+            "Venus"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the hardest rock in the world?",
+        "correct_answer": "Diamond",
+        "incorrect_answers": [
+            "Quartzite",
+            "Granite",
+            "Obsidian"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who is considered the father of modern chemistry?",
+        "correct_answer": "Antoine Lavoisier",
+        "incorrect_answers": [
+            "Dmitri Mendeleev",
+            "Robert Boyle",
+            "Joseph Priestley"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the capital city of Mongolia?",
+        "correct_answer": "Ulaanbaatar",
+        "incorrect_answers": [
+            "Astana",
+            "Tashkent",
+            "Bishkek"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the longest river in Europe?",
+        "correct_answer": "Volga River",
+        "incorrect_answers": [
+            "Danube River",
+            "Rhine River",
+            "Dnieper River"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the SI unit for luminous intensity?",
+        "correct_answer": "Candela",
+        "incorrect_answers": [
+            "Lux",
+            "Lumen",
+            "Watt"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the main antagonist in Herman Melville’s Moby-Dick?",
+        "correct_answer": "Captain Ahab",
+        "incorrect_answers": [
+            "Ishmael",
+            "Queequeg",
+            "Starbuck"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which language is written in the Devanagari script?",
+        "correct_answer": "Hindi",
+        "incorrect_answers": [
+            "Tamil",
+            "Bengali",
+            "Telugu"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the scientist who proposed the laws of planetary motion?",
+        "correct_answer": "Johannes Kepler",
+        "incorrect_answers": [
+            "Galileo Galilei",
+            "Nicolaus Copernicus",
+            "Tycho Brahe"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the chemical symbol for tungsten?",
+        "correct_answer": "W",
+        "incorrect_answers": [
+            "T",
+            "Tu",
+            "Tn"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which country was formerly known as Abyssinia?",
+        "correct_answer": "Ethiopia",
+        "incorrect_answers": [
+            "Eritrea",
+            "Sudan",
+            "Somalia"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the protein that carries oxygen in the blood?",
+        "correct_answer": "Hemoglobin",
+        "incorrect_answers": [
+            "Myoglobin",
+            "Collagen",
+            "Keratin"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who wrote The Prince, a treatise on political philosophy?",
+        "correct_answer": "Niccolò Machiavelli",
+        "incorrect_answers": [
+            "John Locke",
+            "Jean-Jacques Rousseau",
+            "Thomas Hobbes"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for a galaxy containing a supermassive black hole at its center?",
+        "correct_answer": "Active Galactic Nucleus (AGN)",
+        "incorrect_answers": [
+            "Spiral Galaxy",
+            "Irregular Galaxy",
+            "Elliptical Galaxy"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which country has the most freshwater lakes?",
+        "correct_answer": "Canada",
+        "incorrect_answers": [
+            "Russia",
+            "USA",
+            "Finland"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the rarest mineral on Earth?",
+        "correct_answer": "Painite",
+        "incorrect_answers": [
+            "Tanzanite",
+            "Rhodium",
+            "Alexandrite"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the oldest known written epic?",
+        "correct_answer": "The Epic of Gilgamesh",
+        "incorrect_answers": [
+            "The Iliad",
+            "Beowulf",
+            "Mahabharata"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the capital city of Iceland?",
+        "correct_answer": "Reykjavik",
+        "incorrect_answers": [
+            "Oslo",
+            "Helsinki",
+            "Stockholm"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which part of the brain controls balance and coordination?",
+        "correct_answer": "Cerebellum",
+        "incorrect_answers": [
+            "Cerebrum",
+            "Medulla",
+            "Thalamus"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which gas makes up the majority of the Sun’s composition?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+            "Helium",
+            "Carbon",
+            "Oxygen"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the most spoken native language in the world?",
+        "correct_answer": "Mandarin Chinese",
+        "incorrect_answers": [
+            "Spanish",
+            "English",
+            "Hindi"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the chemical name for common table salt?",
+        "correct_answer": "Sodium Chloride",
+        "incorrect_answers": [
+            "Potassium Iodide",
+            "Calcium Carbonate",
+            "Magnesium Sulfate"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who is the founder of the Persian Empire?",
+        "correct_answer": "Cyrus the Great",
+        "incorrect_answers": [
+            "Darius the Great",
+            "Xerxes",
+            "Alexander the Great"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the smallest bone in the human body?",
+        "correct_answer": "Stapes",
+        "incorrect_answers": [
+            "Malleus",
+            "Incus",
+            "Fibula"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the national currency of South Korea?",
+        "correct_answer": "Won",
+        "incorrect_answers": [
+            "Yen",
+            "Yuan",
+            "Baht"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which element has the highest melting point?",
+        "correct_answer": "Tungsten",
+        "incorrect_answers": [
+            "Iron",
+            "Platinum",
+            "Carbon"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the longest war in history?",
+        "correct_answer": "The Reconquista",
+        "incorrect_answers": [
+            "The Hundred Years' War",
+            "Napoleonic Wars",
+            "World War II"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the largest known star in the universe?",
+        "correct_answer": "UY Scuti",
+        "incorrect_answers": [
+            "Betelgeuse",
+            "Rigel",
+            "Antares"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for the fear of heights?",
+        "correct_answer": "Acrophobia",
+        "incorrect_answers": [
+            "Claustrophobia",
+            "Agoraphobia",
+            "Arachnophobia"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who developed the theory of general relativity?",
+        "correct_answer": "Albert Einstein",
+        "incorrect_answers": [
+            "Isaac Newton",
+            "Max Planck",
+            "Niels Bohr"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the capital city of Nigeria?",
+        "correct_answer": "Abuja",
+        "incorrect_answers": [
+            "Lagos",
+            "Accra",
+            "Kinshasa"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the largest species of shark?",
+        "correct_answer": "Whale Shark",
+        "incorrect_answers": [
+            "Great White Shark",
+            "Tiger Shark",
+            "Hammerhead Shark"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which composer wrote The Rite of Spring?",
+        "correct_answer": "Igor Stravinsky",
+        "incorrect_answers": [
+            "Ludwig van Beethoven",
+            "Wolfgang Amadeus Mozart",
+            "Pyotr Tchaikovsky"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the term for an organism that produces its own food?",
+        "correct_answer": "Autotroph",
+        "incorrect_answers": [
+            "Heterotroph",
+            "Decomposer",
+            "Parasite"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which country is home to the ancient city of Petra?",
+        "correct_answer": "Jordan",
+        "incorrect_answers": [
+            "Egypt",
+            "Lebanon",
+            "Syria"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the main ingredient in the Japanese dish sushi?",
+        "correct_answer": "Vinegared rice",
+        "incorrect_answers": [
+            "Raw fish",
+            "Seaweed",
+            "Tofu"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which physicist is known for the discovery of the electron?",
+        "correct_answer": "J.J. Thomson",
+        "incorrect_answers": [
+            "Ernest Rutherford",
+            "James Clerk Maxwell",
+            "Niels Bohr"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which ancient civilization built the city of Machu Picchu?",
+        "correct_answer": "Inca",
+        "incorrect_answers": [
+            "Aztec",
+            "Maya",
+            "Olmec"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the SI unit of electric resistance?",
+        "correct_answer": "Ohm",
+        "incorrect_answers": [
+            "Ampere",
+            "Volt",
+            "Watt"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who is the Greek god of the underworld?",
+        "correct_answer": "Hades",
+        "incorrect_answers": [
+            "Zeus",
+            "Poseidon",
+            "Apollo"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the rarest naturally occurring element on Earth?",
+        "correct_answer": "Astatine",
+        "incorrect_answers": [
+            "Francium",
+            "Polonium",
+            "Radon"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the official language of Ethiopia?",
+        "correct_answer": "Amharic",
+        "incorrect_answers": [
+            "Swahili",
+            "Arabic",
+            "Tigrinya"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which artist painted The Persistence of Memory?",
+        "correct_answer": "Salvador Dalí",
+        "incorrect_answers": [
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Claude Monet"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the outermost layer of the Sun?",
+        "correct_answer": "Corona",
+        "incorrect_answers": [
+            "Photosphere",
+            "Chromosphere",
+            "Core"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the scientific name for the Northern Lights?",
+        "correct_answer": "Aurora Borealis",
+        "incorrect_answers": [
+            "Solar Flare",
+            "Cosmic Glow",
+            "Starlight Refraction"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which country produces the most coffee in the world?",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+            "Colombia",
+            "Vietnam",
+            "Ethiopia"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which desert is the driest place on Earth?",
+        "correct_answer": "Atacama Desert",
+        "incorrect_answers": [
+            "Sahara Desert",
+            "Kalahari Desert",
+            "Mojave Desert"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which German physicist discovered X-rays?",
+        "correct_answer": "Wilhelm Conrad Roentgen",
+        "incorrect_answers": [
+            "Max Planck",
+            "Albert Einstein",
+            "Heinrich Hertz"
+        ],
+        "difficulty": "hard"
+    }
+]
